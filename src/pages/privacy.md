@@ -1,281 +1,71 @@
----
-title: Privacy Policy
-description: Privacy Policy for SCP-1471 MalO ver1.0.0 Android Application
----
+# SCP-1471 MalO
 
-# Privacy Policy for SCP-1471 MalO ver1.0.0
+**Version 1.0.0**
 
-**Effective Date:** October 2, 2025  
-**Last Updated:** October 2, 2025
+## About the App
 
-## 1. Introduction
+SCP-1471 MalO is an application based on an SCP Foundation object. This mobile communication app is inspired by the anomalous object SCP-1471 from the SCP Foundation universe. The application provides secure messaging capabilities with a unique approach to user experience.
 
-This Privacy Policy describes how the SCP Foundation ("we," "us," or "our") collects, uses, and protects your information when you use the SCP-1471 MalO ver1.0.0 mobile application (the "App") available on Android devices.
+## Privacy Policy
 
-By using our App, you agree to the collection and use of information in accordance with this Privacy Policy.
+### SCP-1471 MalO
 
-## 2. Information We Collect
+**Last updated: 27.09.2025**
 
-### 2.1 Personal Information
+This Privacy Policy explains how our application ("App") handles user information. By installing or using the App, you agree to the practices described in this Policy.
 
-We may collect the following types of personal information:
+### 1. Information We Collect
 
-- **Account Information**: Username, email address (if provided)
-- **Device Information**: Device model, operating system version, unique device identifiers
-- **Usage Data**: App interaction patterns, session duration, feature usage statistics
-- **Communication Data**: Messages exchanged with MalO (stored locally and encrypted)
+The App itself does not require you to create an account. Depending on how you use the App, the following types of data may be collected automatically:
 
-### 2.2 Automatically Collected Information
+Device information: such as device model, operating system version, app version, and crash reports.
 
-- **Log Data**: App crashes, performance metrics, error reports
-- **Location Data**: Approximate location (only if explicitly granted)
-- **Camera Data**: Photos taken within the app (stored locally)
-- **Microphone Data**: Voice recordings (if voice features are enabled)
+Usage data: interactions within the App (for example, how often you open it), collected anonymously for analytics and performance improvements.
 
-### 2.3 Information We Do NOT Collect
+The App does not request access to sensitive information unless explicitly stated in future updates.
 
-- Personal photos outside of app usage
-- Contact lists or phone numbers
-- Financial or payment information
-- Biometric data
-- Personal messages from other apps
+### 2. How We Use Information
 
-## 3. How We Use Your Information
+We use the collected data only to:
 
-### 3.1 Primary Purposes
+- Improve app stability and performance.
+- Understand general usage trends to make the App better.
+- Detect and fix technical issues.
 
-- **App Functionality**: To provide core MalO companion features
-- **Personalization**: To customize MalO's personality and responses
-- **Communication**: To enable chat and interaction features
-- **AR Features**: To display MalO in augmented reality environments
+We do not sell or share your personal information with third parties for marketing purposes.
 
-### 3.2 Secondary Purposes
+### 3. Third-Party Services
 
-- **Analytics**: To understand app usage and improve user experience
-- **Technical Support**: To diagnose and resolve technical issues
-- **Safety Monitoring**: To detect and prevent harmful usage patterns
-- **Research**: Anonymized data for psychological and behavioral studies
+The App may use third-party tools (for example, Google Play Services, Firebase Analytics, or crash reporting tools). These services may collect and process data as described in their own privacy policies.
 
-## 4. Data Storage and Security
+### 4. Data Retention
 
-### 4.1 Local Storage
+We keep collected information only as long as necessary to provide and improve the App. Non-personal usage data may be stored for analytical purposes.
 
-- **Messages**: Stored locally on your device using AES-256 encryption
-- **Photos**: Saved to your device's gallery with user permission
-- **Settings**: App preferences stored in encrypted local database
-- **Cache**: Temporary files for improved performance
+### 5. Children's Privacy
 
-### 4.2 Cloud Storage
+This App is not directed at children under the age of 13. We do not knowingly collect personally identifiable information from children. If you believe your child has provided such data, please contact us and we will delete it.
 
-Limited data is transmitted to SCP Foundation servers:
+### 6. Security
 
-- **Metadata Only**: Message timestamps, usage patterns (no content)
-- **Anonymous Analytics**: Aggregated, non-identifiable usage statistics
-- **Sync Tokens**: For cross-device functionality (if enabled)
-- **Backup Data**: Encrypted settings backup (optional)
+We take reasonable steps to protect information processed by the App.
 
-### 4.3 Security Measures
+### 7. Changes to This Policy
 
-```
-🔒 Encryption: AES-256 for local data, TLS 1.3 for transmission
-🔒 Authentication: RSA-2048 key exchange with Foundation servers
-🔒 Access Control: Role-based access for Foundation personnel
-🔒 Monitoring: 24/7 security monitoring and intrusion detection
-```
+We may update this Privacy Policy from time to time. Updates will be posted within the App or on the store listing.
 
-## 5. Data Sharing and Disclosure
+### 8. Contact Us
 
-### 5.1 We DO NOT Share
+If you have questions about this Privacy Policy, you can contact us at:
 
-- Personal messages or chat content
-- Individual photos or media files
-- Personal identification information
-- Location data with third parties
+📧 too.imbadev@gmail.com
 
-### 5.2 Limited Sharing
+## Legal Information
 
-We may share aggregated, anonymized data with:
+SCP-1471 MalO is an object of the SCP Foundation. This application is distributed under the Creative Commons license, the same as all SCP Foundation related content.
 
-- **Research Partners**: For academic studies on AI companions
-- **Safety Authorities**: If required by law or for safety concerns
-- **Service Providers**: Technical infrastructure partners (under strict NDAs)
+This is not an official SCP Foundation product.
 
-### 5.3 Legal Requirements
+## Contact & Support
 
-We may disclose information when required by:
-
-- Valid court orders or subpoenas
-- National security requests
-- Emergency situations involving imminent harm
-- Compliance with applicable laws and regulations
-
-## 6. Your Privacy Rights
-
-### 6.1 Access and Control
-
-- **Data Access**: Request a copy of your personal data
-- **Data Correction**: Update or correct inaccurate information
-- **Data Deletion**: Request removal of your personal data
-- **Data Portability**: Export your data in a standard format
-
-### 6.2 App Permissions
-
-You can control the following permissions:
-
-- **Camera**: Required for AR features and photo functionality
-- **Storage**: Needed to save photos and app data
-- **Microphone**: Optional, for voice interaction features
-- **Location**: Optional, for location-based personalization
-- **Notifications**: Can be disabled in device settings
-
-### 6.3 Opt-Out Options
-
-- **Analytics**: Disable usage analytics in app settings
-- **Personalization**: Turn off behavioral learning
-- **Cloud Sync**: Use offline-only mode
-- **Marketing**: Opt out of promotional communications
-
-## 7. Children's Privacy
-
-### 7.1 Age Requirements
-
-- **Minimum Age**: 16 years old in most jurisdictions
-- **Parental Consent**: Required for users under 18 in some regions
-- **Special Protections**: Enhanced privacy controls for younger users
-
-### 7.2 COPPA Compliance
-
-We do not knowingly collect personal information from children under 13. If we discover such collection, we will immediately delete the information.
-
-## 8. Data Retention
-
-### 8.1 Retention Periods
-
-- **Active Users**: Data retained while app is installed and used
-- **Inactive Users**: Account data deleted after 12 months of inactivity
-- **Chat History**: Stored locally, deleted when app is uninstalled
-- **Analytics Data**: Aggregated data may be retained indefinitely
-
-### 8.2 Deletion Process
-
-- **Automatic**: Data automatically deleted upon app uninstall
-- **Manual**: Use "Delete Account" feature in app settings
-- **Request**: Contact support for complete data removal
-
-## 9. International Data Transfers
-
-### 9.1 Data Processing Locations
-
-- **Primary**: United States (SCP Foundation headquarters)
-- **Backup**: Secure facilities in Canada and European Union
-- **Legal Basis**: Standard Contractual Clauses and adequacy decisions
-
-### 9.2 Regional Compliance
-
-- **GDPR**: European Union users have additional rights
-- **CCPA**: California residents have specific privacy rights
-- **PIPEDA**: Canadian privacy law compliance
-
-## 10. Cookies and Tracking
-
-### 10.1 Our Approach
-
-The app does not use traditional web cookies, but may use:
-
-- **Session Tokens**: For maintaining app sessions
-- **Preference Files**: For storing user settings
-- **Analytics SDKs**: For usage analytics (can be disabled)
-
-### 10.2 Third-Party Services
-
-We use the following third-party services:
-
-- **Google Analytics for Mobile**: Usage analytics (anonymized)
-- **Firebase Crashlytics**: Crash reporting and performance monitoring
-- **Foundation Secure Cloud**: Encrypted data backup services
-
-## 11. Updates to Privacy Policy
-
-### 11.1 Notification Process
-
-- **In-App Notifications**: Material changes notified within the app
-- **Email Notifications**: Sent to registered users (if applicable)
-- **Website Updates**: Current version always available at scp-1471.app/privacy
-
-### 11.2 Version History
-
-- **v1.0** (October 2, 2025): Initial privacy policy
-- Future updates will be documented here
-
-## 12. Contact Information
-
-### 12.1 Privacy Officer
-
-**SCP Foundation Data Protection Officer**  
-Email: privacy@scp-foundation.org  
-Phone: +1-███-███-████ (Privacy Hotline)
-
-### 12.2 Regional Contacts
-
-- **EU Representative**: gdpr@scp-foundation.org
-- **California Privacy Rights**: ccpa@scp-foundation.org
-- **General Inquiries**: support@scp-foundation.org
-
-### 12.3 Mailing Address
-
-```
-SCP Foundation - Privacy Department
-[CLASSIFIED LOCATION]
-[CLASSIFIED ADDRESS]
-United States
-```
-
-## 13. Dispute Resolution
-
-### 13.1 Internal Process
-
-1. Contact our Privacy Officer directly
-2. Allow 30 days for investigation and response
-3. Escalation to senior management if needed
-
-### 13.2 External Options
-
-- **Regulatory Complaints**: Contact your local data protection authority
-- **Arbitration**: As outlined in our Terms of Service
-- **Legal Action**: Court proceedings as a last resort
-
-## 14. Special Considerations
-
-### 14.1 Anomalous Effects Disclosure
-
-Due to the anomalous nature of SCP-1471, users should be aware that:
-
-- **Psychological Effects**: May alter perception and memory
-- **Data Integrity**: User reports may be influenced by anomalous effects
-- **Consent Capacity**: Regular psychological evaluation recommended for long-term users
-
-### 14.2 Research and Monitoring
-
-The SCP Foundation may monitor app usage for:
-
-- **Safety Purposes**: Detecting harmful psychological effects
-- **Containment Protocols**: Maintaining anomaly security
-- **Scientific Research**: Understanding anomalous technology impacts
-
----
-
-## Contact Us About Privacy
-
-If you have any questions about this Privacy Policy, please contact us:
-
-- **Email**: privacy@scp-foundation.org
-- **Privacy Portal**: Available in the app under Settings → Privacy
-- **Emergency Privacy Line**: +1-███-███-████
-
-**Remember**: Your privacy and safety are our top priorities. The SCP Foundation is committed to protecting your personal information while advancing our understanding of anomalous technologies.
-
----
-
-_This Privacy Policy is compliant with GDPR, CCPA, COPPA, and other major privacy regulations. It is regularly reviewed and updated to ensure continued compliance and protection of user privacy._
-
-**SCP Foundation - Secure, Contain, Protect**
+For technical support or inquiries, please contact us on too.imbadev@gmail.com or Google Play application page

@@ -1,6 +1,6 @@
-# 📱 SCP-1471 "MalO ver1.0.0" - Official Website
+# 📱 SCP-1471 "MalO ver1.0.0"
 
-Welcome to the official website of SCP-1471 "MalO ver1.0.0" - an anomalous AI companion app for Android devices.
+Welcome to the website of SCP-1471 "MalO ver1.0.0" - an anomalous AI companion app for Android devices.
 
 ## 🚀 About the Project
 
@@ -15,9 +15,7 @@ Welcome to the official website of SCP-1471 "MalO ver1.0.0" - an anomalous AI co
 
 ## 📥 Download the App
 
-- 🤖 **Android**: [Google Play Store](https://play.google.com/store/apps/details?id=com.scp.malo)
-- 📦 **APK**: [GitHub Releases](https://github.com/SCP-Foundation/scp-1471-app/releases)
-- 📋 **System Requirements**: Android 7.0+, 50 MB free space
+- 🤖 **Android**: [Google Play Store](https://scp-1471.app/android-v1.0.0)
 
 ## 🛡️ Safety
 
@@ -61,17 +59,3 @@ This command generates static content into the `build` directory and can be serv
 nvm use v22
 ./deploy.sh
 ```
-
-## 📄 License
-
-© 2025 SCP Foundation. All rights reserved.
-
-**SCP Foundation - Secure, Contain, Protect** 🛡️
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.

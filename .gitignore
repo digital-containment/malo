@@ -22,5 +22,4 @@ yarn-error.log*
 
 CNAME
 /build/CNAME
-blog-demo
-deploy.sh
+blog-demo 
