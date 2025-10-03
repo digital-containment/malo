@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmalo=self.webpackChunkmalo||[]).push([[9453],{9162:a=>{a.exports=JSON.parse('{"tag":{"label":"future","permalink":"/blog/tags/future","allTagsPath":"/blog/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/blog/tags/future","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
