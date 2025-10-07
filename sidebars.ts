@@ -12,19 +12,7 @@ import type { SidebarsConfig } from "@docusaurus/plugin-content-docs";
  */
 const sidebars: SidebarsConfig = {
   // Основная документация MalO
-  tutorialSidebar: [
-    "intro",
-    "installation",
-    "usage",
-    "technical-specs",
-    "about-scp",
-    "faq",
-    {
-      type: "category",
-      label: "📚 Дополнительные материалы",
-      items: ["tutorial-basics/create-a-document", "tutorial-basics/create-a-page"],
-    },
-  ],
+  tutorialSidebar: ["intro", "installation", "usage", "technical-specs", "about-scp", "faq"],
 };
 
 export default sidebars;

@@ -87,12 +87,12 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: "img/scp-1471-social-card.jpg",
+    image: "img/social-card.jpg",
     navbar: {
       title: "SCP-1471",
       logo: {
         alt: "SCP-1471 MalO Application",
-        src: "img/malo-logo.png",
+        src: "img/malo-logo.webp",
       },
       items: [
         {
