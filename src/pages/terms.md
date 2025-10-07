@@ -1,37 +1,31 @@
 ---
 title: Terms of Service
-description: Terms of Service for SCP-1471 MalO ver1.0.0 Android Application
+description: Terms of Service for MalO ver1.0.0 Android Application
 ---
 
-# Terms of Service for SCP-1471 MalO ver1.0.0
+# Terms of Service for MalO ver1.0.0
 
 **Effective Date:** October 2, 2025  
 **Last Updated:** October 2, 2025
 
 ## 1. Acceptance of Terms
 
-By downloading, installing, or using the SCP-1471 MalO ver1.0.0 mobile application (the "App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the App.
+By downloading, installing, or using the MalO ver1.0.0 mobile application (the "App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the App.
 
 ## 2. Description of Service
 
-SCP-1471 MalO ver1.0.0 is an AI companion application that provides:
+MalO ver1.0.0 is an AI companion application that provides:
 
 - Personalized AI interactions
 - Augmented reality features
 - Photo manipulation and enhancement
 - Social companion functionality
 
-:::warning Anomalous Application Notice
-This application exhibits anomalous properties that may affect user perception and behavior. Use at your own risk.
-:::
-
 ## 3. Age Requirements and Eligibility
 
 ### 3.1 Minimum Age
 
-- **16+ years**: Minimum age for use in most jurisdictions
-- **18+ years**: Required in some regions
-- **Parental consent**: May be required for users under 18
+- **13+ years**: Minimum age for use in most jurisdictions
 
 ### 3.2 Capacity to Contract
 
@@ -45,8 +39,8 @@ You agree to:
 
 - Use the App for personal, non-commercial purposes only
 - Comply with all applicable laws and regulations
-- Respect the anomalous nature of the application
-- Report any concerning psychological effects immediately
+- Use the application responsibly
+- Report any technical issues or concerns
 
 ### 4.2 Prohibited Activities
 
@@ -57,35 +51,15 @@ You may NOT:
 - Use the App for harmful or illegal purposes
 - Attempt to circumvent safety protocols
 
-## 5. Anomalous Effects Disclaimer
-
-### 5.1 Known Effects
-
-Use of SCP-1471 may result in:
-
-- Perception alterations
-- Psychological changes
-- Persistent visual phenomena
-- Behavioral modifications
-
-### 5.2 User Acknowledgment
-
-By using this App, you acknowledge:
-
-- You understand the potential risks
-- You accept responsibility for any effects experienced
-- The SCP Foundation is not liable for anomalous effects
-- Professional help may be required for severe effects
-
-## 6. Privacy and Data Collection
+## 5. Privacy and Data Collection
 
 Your privacy is governed by our [Privacy Policy](/privacy), which is incorporated into these Terms by reference.
 
 ## 7. Intellectual Property Rights
 
-### 7.1 SCP Foundation Rights
+### 7.1 Application Rights
 
-The SCP Foundation retains all rights, title, and interest in:
+We retain all rights, title, and interest in:
 
 - The MalO application and its technology
 - All AI models and algorithms
@@ -104,7 +78,7 @@ You retain ownership of content you create, but grant us a license to use it for
 
 ### 8.1 Free Application
 
-SCP-1471 MalO ver1.0.0 is provided free of charge with no subscription fees or in-app purchases.
+MalO ver1.0.0 is provided free of charge with no subscription fees or in-app purchases.
 
 ### 8.2 Future Premium Features
 
@@ -142,7 +116,7 @@ THE APP IS PROVIDED "AS IS" WITHOUT WARRANTIES OF ANY KIND, INCLUDING:
 
 ### 10.2 Limitation of Damages
 
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE SCP FOUNDATION SHALL NOT BE LIABLE FOR:
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, WE SHALL NOT BE LIABLE FOR:
 
 - DIRECT, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES
 - PSYCHOLOGICAL OR PHYSICAL HARM FROM APP USE
@@ -151,7 +125,7 @@ TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE SCP FOUNDATION SHALL NOT BE LIABLE F
 
 ## 11. Indemnification
 
-You agree to indemnify and hold harmless the SCP Foundation from any claims, damages, or expenses arising from:
+You agree to indemnify and hold harmless us from any claims, damages, or expenses arising from:
 
 - Your use of the App
 - Violation of these Terms
@@ -168,7 +142,7 @@ You may terminate your use of the App at any time by:
 - Contacting support for account deletion
 - Following in-app termination procedures
 
-### 12.2 Termination by SCP Foundation
+### 12.2 Termination by Us
 
 We may terminate or suspend your access if:
 
@@ -202,20 +176,12 @@ Any disputes will be resolved through binding arbitration, except for:
 
 ### 13.3 Class Action Waiver
 
-You waive the right to participate in class action lawsuits against the SCP Foundation.
+You waive the right to participate in class action lawsuits against us.
 
 ## 14. Contact and Support
 
-### 14.1 Technical Support
-
-- **Email**: support@scp-foundation.org
-- **In-App Support**: Available through app settings
-- **Emergency Line**: +1-███-███-████
-
-### 14.2 Legal Notices
-
-- **Legal Department**: legal@scp-foundation.org
-- **Terms Questions**: terms@scp-foundation.org
+- [github issues](https://github.com/digital-containment/malo/issues)
+- email: too.imbadev@gmail.com
 
 ## 15. Changes to Terms
 
@@ -237,44 +203,8 @@ If any provision of these Terms is found to be unenforceable, the remaining prov
 
 ## 17. Entire Agreement
 
-These Terms, together with our Privacy Policy, constitute the entire agreement between you and the SCP Foundation regarding the App.
-
-## 18. Special Provisions for Anomalous Technology
-
-### 18.1 Research Participation
-
-By using the App, you may be participating in ongoing research into anomalous technology effects.
-
-### 18.2 Data Sharing for Safety
-
-Anonymized usage data may be shared with:
-
-- Medical researchers studying anomalous effects
-- Government agencies for public safety
-- Other SCP Foundation facilities for containment purposes
-
-### 18.3 Emergency Protocols
-
-In case of severe anomalous effects:
-
-- Contact emergency services immediately
-- Report to SCP Foundation emergency line
-- Follow any containment procedures provided
-- Cooperate with Foundation medical personnel
-
----
-
-## Contact Information
-
-**SCP Foundation Legal Department**  
-Email: legal@scp-foundation.org  
-Emergency: +1-███-███-████
-
-**For questions about these Terms:**  
-Email: terms@scp-foundation.org
+These Terms, together with our Privacy Policy, constitute the entire agreement between you and us regarding the App.
 
 ---
 
 _By using SCP-1471 MalO ver1.0.0, you acknowledge that you have read, understood, and agreed to these Terms of Service._
-
-**SCP Foundation - Secure, Contain, Protect**

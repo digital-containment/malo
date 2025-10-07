@@ -144,10 +144,6 @@ const config: Config = {
           title: "SCP Foundation",
           items: [
             {
-              label: "Official Website",
-              href: "http://scp-wiki.wikidot.com/",
-            },
-            {
               label: "SCP-1471 Article",
               href: "http://scp-wiki.wikidot.com/scp-1471",
             },
@@ -166,11 +162,7 @@ const config: Config = {
           items: [
             {
               label: "GitHub Issues",
-              href: "https://github.com/SCP-Foundation/scp-1471-app/issues",
-            },
-            {
-              label: "Community",
-              href: "https://discord.gg/scp",
+              href: "https://github.com/digital-containment/malo/issues",
             },
             {
               label: "Updates",
@@ -179,7 +171,6 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} SCP Foundation. MalO ver1.0.0`,
     },
     prism: {
       theme: prismThemes.github,
