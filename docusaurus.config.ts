@@ -34,6 +34,18 @@ const config: Config = {
       injectHtmlTags() {
         return {
           headTags: [
+            // Google Analytics
+            {
+              tagName: "script",
+              attributes: { async: true, src: "https://www.googletagmanager.com/gtag/js?id=G-XWQJNEH9KG" },
+            },
+            {
+              tagName: "script",
+              innerHTML: `window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-XWQJNEH9KG');`,
+            },
             {
               tagName: "script",
               innerHTML: `(function(m,e,t,r,i,k,a){
