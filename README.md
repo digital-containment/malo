@@ -9,13 +9,12 @@ Welcome to the website of SCP-1471 "MalO ver1.0.0" - an anomalous AI companion a
 ### ✨ Key Features:
 
 - 💬 Intelligent communication with MalO AI companion
-- 📸 Unique camera with MalO presence effects
-- 🌍 Augmented reality mode
-- 🔔 Adaptive notifications and personalization
 
 ## 📥 Download the App
 
-- 🤖 **Android**: [Google Play Store](https://scp-1471.app/android-v1.0.0)
+- 🤖 **Android**: [Google Play Store](https://play.google.com/store/apps/details?id=com.doctordredd.scp1471malo)
+
+- [Join for testing in Google Play Store](https://play.google.com/apps/testing/com.doctordredd.scp1471malo)
 
 ## 🛡️ Safety
 
