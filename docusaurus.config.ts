@@ -110,12 +110,12 @@ gtag('config', 'G-XWQJNEH9KG');`,
         {
           type: "docSidebar",
           sidebarId: "tutorialSidebar",
-          position: "left",
+          position: "right",
           label: "Documentation",
         },
         {
-          href: "https://play.google.com/store/apps/details?id=com.scp.malo",
-          label: "Download APK",
+          href: "https://play.google.com/apps/testing/com.doctordredd.scp1471malo",
+          label: "Google Play - Download",
           position: "left",
         },
         { to: "/blog", label: "Updates", position: "left" },
@@ -124,7 +124,7 @@ gtag('config', 'G-XWQJNEH9KG');`,
         {
           type: "html",
           position: "right",
-          value: `<a href="https://github.com/SCP-Foundation/scp-1471-app" target="_blank" rel="noopener noreferrer"
+          value: `<a href="https://github.com/digital-containment/malo" target="_blank" rel="noopener noreferrer"
            class="navbar__item navbar__link">GitHub<svg 
            width="13.5" height="13.5" aria-hidden="true" 
            viewBox="0 0 24 24" 

@@ -42,7 +42,7 @@ Before installation, please review the [safety documentation](/docs/faq#side-eff
 ## 📥 How to Download
 
 1. **Google Play Store**: Search for "MalO ver1.0.0"
-2. **Direct Link**: [Download APK](https://github.com/SCP-Foundation/scp-1471-app)
+2. **Direct Link**: [Download APK](https://play.google.com/apps/testing/com.doctordredd.scp1471malo)
 3. **QR Code**: Use scanner for quick installation
 
 ## 🔮 Development Plans

@@ -27,7 +27,7 @@ const screenshots: Screenshot[] = [
   {
     src: "/img/screenshot-privacy.png",
     alt: "MalO Android app screenshot - privacy and license information",
-    caption: "Privacy & license info",
+    caption: "Privacy? Of cose - no. It is SCP-1471 Malo",
   },
 ];
 

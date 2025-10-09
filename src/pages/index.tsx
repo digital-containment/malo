@@ -7,7 +7,7 @@ import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
 
 // Импорт всех компонентов лендинга
-import { Hero, Features, HowItWorks, Screenshots, Privacy, FAQ, FinalCTA, LandingFooter, StickyMobileCTA } from "@site/src/components/LandingPage";
+import { Hero, Features, HowItWorks, Screenshots, FAQ, FinalCTA, LandingFooter, StickyMobileCTA } from "@site/src/components/LandingPage";
 
 /**
  * Главный компонент страницы
@@ -25,7 +25,6 @@ export default function Home(): JSX.Element {
       <Features />
       <HowItWorks />
       <Screenshots />
-      <Privacy />
       <FAQ />
       <FinalCTA />
       <LandingFooter />
