@@ -1,0 +1,15 @@
+/**
+ * Главный файл для экспорта всех компонентов лендинга
+ * Упрощает импорт компонентов в основной странице
+ */
+
+export { default as Hero } from "./Hero";
+export { default as Features } from "./Features";
+export { default as HowItWorks } from "./HowItWorks";
+export { default as Screenshots } from "./Screenshots";
+export { default as Privacy } from "./Privacy";
+export { default as FAQ } from "./FAQ";
+export { default as FinalCTA } from "./FinalCTA";
+export { default as LandingFooter } from "./LandingFooter";
+export { default as StickyMobileCTA } from "./StickyMobileCTA";
+export { default as BetaPlayButton } from "./BetaPlayButton";

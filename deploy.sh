@@ -10,7 +10,7 @@ echo "Build done"
 
 rm -rf ./malo
 
-git clone git@github.com:digital-containment/malo.git -b gh-pages
+git clone https://github.com/digital-containment/malo.git -b gh-pages
 
 mv ./malo/.git ./build/.git
 rm -rf ./malo

@@ -1,0 +1,56 @@
+/* Footer для лендинга */
+.landingFooter {
+  padding: 40px 0;
+  background: #1a1a2e;
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.footerContent {
+  text-align: center;
+}
+
+.copyright {
+  font-size: 0.938rem;
+  margin-bottom: 1rem;
+  line-height: 1.6;
+}
+
+.footerLinks {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  flex-wrap: wrap;
+}
+
+.footerLink {
+  font-size: 0.938rem;
+  color: rgba(255, 255, 255, 0.7);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.footerLink:hover {
+  color: white;
+  text-decoration: underline;
+}
+
+.linkSeparator {
+  color: rgba(255, 255, 255, 0.3);
+}
+
+/* Адаптивность */
+@media (max-width: 768px) {
+  .landingFooter {
+    padding: 30px 0;
+  }
+
+  .footerLinks {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .linkSeparator {
+    display: none;
+  }
+}
