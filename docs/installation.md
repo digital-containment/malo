@@ -11,7 +11,7 @@ sidebar_position: 2
 1. **Google Play Store** (recommended)
 
    ```
-   Search for "MalO ver1.0.0" in Play Store
+   Search for "MalO ver1.0.0" in the Play Store
    ```
 
 2. **APK file**
@@ -19,64 +19,64 @@ sidebar_position: 2
    - Size: ~47 MB
    - Version: 1.0.0
 
-### Установка через APK
+### Installing via APK
 
-:::warning Предупреждение
-Установка из неизвестных источников требует включения соответствующей опции в настройках Android
+:::warning Warning
+Installing from unknown sources requires enabling the corresponding option in Android settings.
 :::
 
-1. Скачайте APK файл
-2. Откройте **Настройки** → **Безопасность**
-3. Включите **Неизвестные источники**
-4. Найдите скачанный файл в **Загрузках**
-5. Нажмите на файл для установки
-6. Следуйте инструкциям на экране
+1. Download the APK file
+2. Open **Settings** → **Security**
+3. Enable **Unknown sources**
+4. Find the downloaded file in **Downloads**
+5. Tap the file to install
+6. Follow the on-screen instructions
 
-## Первый запуск
+## First Launch
 
-### Настройка разрешений
+### Permission Setup
 
-При первом запуске приложение запросит следующие разрешения:
+On first launch, the app will request the following permissions:
 
-- 📷 **Камера** - для создания фотографий с MalO
-- 🖼️ **Галерея** - для сохранения и просмотра изображений
-- 📞 **Контакты** - для персонализации опыта
-- 🔔 **Уведомления** - для получения сообщений от MalO
+- 📷 **Camera** – to take photos with MalO
+- 🖼️ **Gallery** – to save and view images
+- 📞 **Contacts** – to personalize your experience
+- 🔔 **Notifications** – to receive messages from MalO
 
-:::tip Совет
-Рекомендуется предоставить все запрашиваемые разрешения для полной функциональности
+:::tip Tip
+It is recommended to grant all requested permissions for full functionality.
 :::
 
-### Создание профиля
+### Creating a Profile
 
-1. Введите ваше имя
-2. Выберите аватар (опционально)
-3. Установите настройки уведомлений
-4. Примите пользовательское соглашение
+1. Enter your name
+2. Choose an avatar (optional)
+3. Set up notification preferences
+4. Accept the user agreement
 
-## Проверка установки
+## Installation Check
 
-После успешной установки вы увидите:
+After successful installation, you will see:
 
-- Иконку MalO на главном экране
-- Приветственное сообщение от компаньона
-- Доступ к основным функциям приложения
+- The MalO icon on your home screen
+- A welcome message from your companion
+- Access to the app's main features
 
-## Устранение неполадок
+## Troubleshooting
 
-### Приложение не устанавливается
+### The app does not install
 
-- Убедитесь, что у вас достаточно свободного места (минимум 50 МБ)
-- Проверьте версию Android (требуется 7.0+)
-- Очистите кеш Play Store
+- Make sure you have enough free space (at least 50 MB)
+- Check your Android version (7.0+ required)
+- Clear the Play Store cache
 
-### Проблемы с разрешениями
+### Permission issues
 
-- Зайдите в **Настройки** → **Приложения** → **MalO**
-- Проверьте и включите необходимые разрешения
+- Go to **Settings** → **Apps** → **MalO**
+- Check and enable the required permissions
 
-### Приложение вылетает
+### The app crashes
 
-- Перезагрузите устройство
+- Restart your device
 - Переустановите приложение
 - Убедитесь в стабильности интернет-соединения
