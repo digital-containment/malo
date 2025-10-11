@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import styles from "./StickyMobileCTA.module.css";
+import { trackGooglePlayVisit } from "@site/src/utils/utils";
 
 /**
  * Компонент StickyMobileCTA - "липкая" кнопка внизу экрана на мобильных устройствах
@@ -19,9 +20,23 @@ export default function StickyMobileCTA(): JSX.Element {
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
 
+  /**
+   * Обработчик клика по липкой кнопке
+   */
+  const handleClick = (event: React.MouseEvent<HTMLAnchorElement>) => {
+    // Отправляем событие в Яндекс.Метрику
+    trackGooglePlayVisit("sticky-mobile");
+  };
+
   return (
     <div className={`${styles.stickyContainer} ${isVisible ? styles.visible : ""}`}>
-      <a href="https://play.google.com/apps/testing/com.doctordredd.scp1471malo" className={styles.stickyButton} target="_blank" rel="noopener noreferrer">
+      <a
+        href="https://play.google.com/apps/testing/com.doctordredd.scp1471malo"
+        className={styles.stickyButton}
+        target="_blank"
+        rel="noopener noreferrer"
+        onClick={handleClick}
+      >
         📱 Join Beta on Google Play
       </a>
     </div>

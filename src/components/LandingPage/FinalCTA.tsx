@@ -12,7 +12,7 @@ export default function FinalCTA(): JSX.Element {
         <div className={styles.ctaContent}>
           <h2 className={styles.ctaTitle}>Ready to Chat with MalO?</h2>
 
-          <BetaPlayButton showMicroText={false} />
+          <BetaPlayButton showMicroText={false} location="final-cta" />
 
           <p className={styles.ctaSubtitle}>Fan-made SCP-1471 chat app for Android • Currently in Beta</p>
         </div>

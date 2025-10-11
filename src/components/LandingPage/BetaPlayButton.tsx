@@ -1,5 +1,6 @@
 import React from "react";
 import styles from "./BetaPlayButton.module.css";
+import { trackGooglePlayVisit } from "@site/src/utils/utils";
 
 /**
  * Интерфейс пропсов для кнопки бета-доступа
@@ -9,16 +10,34 @@ interface BetaPlayButtonProps {
   showMicroText?: boolean;
   /** Дополнительный CSS класс */
   className?: string;
+  /** Местоположение кнопки для аналитики */
+  location?: string;
 }
 
 /**
  * Компонент BetaPlayButton - кнопка для присоединения к бета-тестированию
  * Используется вместо обычной кнопки Google Play, когда приложение в бете
  */
-export default function BetaPlayButton({ showMicroText = true, className = "" }: BetaPlayButtonProps): JSX.Element {
+export default function BetaPlayButton({ showMicroText = true, className = "", location = "unknown" }: BetaPlayButtonProps): JSX.Element {
+  /**
+   * Обработчик клика по кнопке - отправляет аналитику в Яндекс.Метрику
+   */
+  const handleClick = (event: React.MouseEvent<HTMLAnchorElement>) => {
+    // Отправляем событие в Яндекс.Метрику
+    trackGooglePlayVisit(location);
+
+    // Не предотвращаем переход по ссылке - пусть откроется в новой вкладке
+  };
+
   return (
     <div className={`${styles.betaButtonContainer} ${className}`}>
-      <a href="https://play.google.com/apps/testing/com.doctordredd.scp1471malo" className={styles.playBtn} target="_blank" rel="noopener noreferrer">
+      <a
+        href="https://play.google.com/apps/testing/com.doctordredd.scp1471malo"
+        className={styles.playBtn}
+        target="_blank"
+        rel="noopener noreferrer"
+        onClick={handleClick}
+      >
         Join the Beta on Google Play
       </a>
 

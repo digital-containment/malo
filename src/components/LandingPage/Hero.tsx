@@ -20,7 +20,7 @@ export default function Hero(): JSX.Element {
 
             {/* Основная кнопка CTA - бета версия */}
             <div className={styles.ctaContainer}>
-              <BetaPlayButton />
+              <BetaPlayButton location="hero" />
             </div>
 
             {/* Строка доверия */}
