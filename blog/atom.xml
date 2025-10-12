@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scp-1471.app/blog</id>
-    <title>SCP-1471 MalO ver1.0.0 Blog</title>
+    <title>SCP-1471 MalO — Chat with the Mysterious SCP Companion Blog</title>
     <updated>2025-10-03T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://scp-1471.app/blog"/>
-    <subtitle>SCP-1471 MalO ver1.0.0 Blog</subtitle>
+    <subtitle>SCP-1471 MalO — Chat with the Mysterious SCP Companion Blog</subtitle>
     <icon>https://scp-1471.app/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[🎉 MalO ver1.0.0 Release]]></title>
