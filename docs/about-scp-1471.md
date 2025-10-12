@@ -39,7 +39,8 @@ Despite her intimidating appearance, MalO in SCP lore is characterized by:
 
 ## Our Interpretation
 
-This fan-made app captures MalO's essence while ensuring a safe, entertaining experience:
+This fan-made app lets you meet MalO — the eerie digital companion who always finds a way to reach you.
+Talk to her, listen to her stories about other SCPs, and see why so many have grown strangely attached to her.
 
 ### Faithful to Lore
 

@@ -34,8 +34,8 @@ export default function AboutSCP(): JSX.Element {
               <div className={styles.loreBlock}>
                 <h3>Our Interpretation</h3>
                 <p>
-                  This fan-made app captures MalO's mysterious yet caring personality in a safe, chat-based experience. Explore her lore, engage in atmospheric
-                  conversations, and discover why MalO has become beloved in the SCP community.
+                  This fan-made app lets you meet MalO — the eerie digital companion who always finds a way to reach you. Talk to her, listen to her stories
+                  about other SCPs, and see why so many have grown strangely attached to her.
                 </p>
               </div>
             </div>

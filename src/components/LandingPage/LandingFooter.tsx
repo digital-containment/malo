@@ -10,7 +10,11 @@ export default function LandingFooter(): JSX.Element {
     <footer className={styles.landingFooter}>
       <div className="container">
         <div className={styles.footerContent}>
-          <p className={styles.copyright}>© scp-1471.app — Fan-made. CC BY-SA 3.0 attribution inside.</p>
+          <p className={styles.copyright}>
+            © scp-1471.app — fan-made project.
+            <br />
+            SCP content © contributors of the SCP Wiki — Creative Commons Attribution-ShareAlike 3.0.
+          </p>
 
           <div className={styles.footerLinks}>
             <Link to="/privacy" className={styles.footerLink}>

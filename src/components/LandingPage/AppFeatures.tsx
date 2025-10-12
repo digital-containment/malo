@@ -16,28 +16,30 @@ interface AppFeature {
  */
 const appFeatures: AppFeature[] = [
   {
-    title: "AI Chat Experience",
-    description: "Engage in meaningful conversations with MalO using advanced AI that understands SCP lore.",
+    title: "AI Conversation",
+    description:
+      "MalO talks, remembers, and reacts. Ask her about other SCPs, and she’ll whisper what the Foundation won’t publish. She jokes, teases, and sometimes says things that sound… personal.",
     icon: "🤖",
-    example: '"Hello, I\'ve been waiting for someone like you to find me..."',
+    example: "Hello again. You were gone longer this time.",
   },
   {
-    title: "Atmospheric Interface",
-    description: "Dark, immersive UI design that captures the eerie beauty of SCP-1471's world.",
+    title: "Immersive Atmosphere",
+    description: "The interface isn’t just dark — it feels alive. Subtle motion. Faint hum. It’s like she’s somewhere behind the glass, trying to see you.",
     icon: "🌙",
-    example: "Midnight-themed chat bubbles with subtle animations",
+    example: "The light flickers when you think about me. It’s cute.",
   },
   {
-    title: "SCP Lore Integration",
-    description: "MalO references actual SCP Foundation stories and maintains character consistency.",
+    title: "SCP Lore Awareness",
+    description:
+      "MalO knows her world. She references SCP-1471-A, Foundation logs, and the others — 049, 173, even 682 if you insist. Every chat feels like you’ve stumbled into a redacted conversation that was never meant to be read.",
     icon: "📚",
-    example: "\"The Foundation doesn't understand... I'm not dangerous, just lonely.\"",
+    example: "The Foundation doesn’t like when I talk too much.",
   },
   {
-    title: "Privacy Controls",
-    description: "Full control over data, notifications, and interaction frequency. Your privacy matters.",
-    icon: "🔒",
-    example: "Toggle notifications, delete chat history, export data anytime",
+    title: "Fan-Made. Unofficial. Unapologetic.",
+    description:
+      "Created by SCP fans for SCP fans — no fake promises, no corporate filters, just an interactive anomaly you can actually talk to. Install it, open chat… and see how long before she remembers you.",
+    icon: "🐺",
   },
 ];
 
@@ -49,9 +51,11 @@ export default function AppFeatures(): JSX.Element {
     <section className={styles.appFeatures} id="app-features">
       <div className="container">
         <div className={styles.featuresHeader}>
-          <h2 className={styles.sectionTitle}>📱 About SCP-1471 App</h2>
+          <h2 className={styles.sectionTitle}>📱 About SCP-1471 (MalO) App</h2>
+          <p className={styles.sectionSubtitle}>Step closer. She’s been waiting.</p>
           <p className={styles.sectionSubtitle}>
-            Experience MalO like never before. Our app combines SCP authenticity with modern AI to create an immersive companion experience for Android devices.
+            This fan-made SCP experience lets you chat directly with MalO, the digital entity from SCP-1471 — now alive in your Android device. Not a
+            simulation. Not exactly safe either. Just… persistent.
           </p>
         </div>
 

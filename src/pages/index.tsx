@@ -11,8 +11,9 @@ import {
   Hero,
   Features,
   AboutSCP,
+  AboutMalO,
+  ChatPreview,
   AppFeatures,
-  Security,
   HowItWorks,
   Screenshots,
   FAQ,
@@ -64,9 +65,10 @@ export default function Home(): JSX.Element {
       {/* Основной контент с тематическими секциями */}
       <Hero />
       <AboutSCP />
+      <AboutMalO />
       <Features />
+      <ChatPreview />
       <AppFeatures />
-      <Security />
       <HowItWorks />
       <Screenshots />
       <FAQ />

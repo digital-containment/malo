@@ -15,24 +15,24 @@ interface FeatureItem {
  */
 const featuresList: FeatureItem[] = [
   {
-    title: "Atmospheric Chat",
-    description: "Messenger-style conversation with MalO (SCP-1471), built for immersive SCP fans.",
+    title: "She Talks Back",
+    description: "Chat with MalO — she remembers you, jokes about other SCPs, and sometimes tells things she shouldn’t.",
     icon: "💬",
   },
   {
-    title: "Android-Ready",
-    description: "Optimized for Android devices with push notifications and a clean, dark UI.",
+    title: "Always With You",
+    description: "MalO slips into your messages like she’s always been there. Works perfectly on Android — naturally.",
     icon: "📱",
   },
   {
-    title: "Fan-Made & Safe",
-    description: "Not official, no harmful behavior. Clear privacy controls and easy opt-out.",
-    icon: "🛡️",
+    title: "A Fan Creation",
+    description: "Made by SCP enthusiasts who decided to see what would happen if MalO could actually reply.",
+    icon: "🕯️",
   },
   {
-    title: "Growing Content",
-    description: "Regular updates, events, and new interactions inspired by SCP lore.",
-    icon: "🌱",
+    title: "Ever-Evolving",
+    description: "New dialogue, stories, and eerie SCP references appear over time. She’s learning. Slowly.",
+    icon: "🧩",
   },
 ];
 
@@ -43,7 +43,7 @@ export default function Features(): JSX.Element {
   return (
     <section className={styles.features}>
       <div className="container">
-        <h2 className={styles.featuresTitle}>Why MalO (SCP-1471) App</h2>
+        <h2 className={styles.featuresTitle}>Why talk to MalO?</h2>
 
         <div className={styles.featuresGrid}>
           {featuresList.map((feature, idx) => (
