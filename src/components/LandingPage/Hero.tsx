@@ -13,9 +13,10 @@ export default function Hero(): JSX.Element {
         <div className={styles.heroContent}>
           {/* Левая колонка с текстом */}
           <div className={styles.heroText}>
-            <h1 className={styles.heroTitle}>MalO — SCP-1471 Chat App for Android</h1>
+            <h1 className={styles.heroTitle}>MalO — Chat with SCP-1471 Mysterious Companion</h1>
             <p className={styles.heroSubtitle}>
-              Experience an atmospheric, messenger-style chat with MalO (SCP-1471). Fan-made, privacy-friendly, crafted for SCP fans.
+              Experience the SCP-1471 AI chatbot app on Android. Chat with MalO, explore her eerie personality, and uncover the SCP mystery in this atmospheric
+              companion app. Download free today.
             </p>
 
             {/* Основная кнопка CTA - бета версия */}
@@ -24,7 +25,7 @@ export default function Hero(): JSX.Element {
             </div>
 
             {/* Строка доверия */}
-            <p className={styles.trustLine}>Fan-made • Not affiliated with SCP Foundation • CC BY-SA 3.0 attribution inside</p>
+            <p className={styles.trustLine}>Fan-made</p>
           </div>
 
           {/* Правая колонка с мокапом телефона */}

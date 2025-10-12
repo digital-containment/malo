@@ -5,6 +5,9 @@
 
 export { default as Hero } from "./Hero";
 export { default as Features } from "./Features";
+export { default as AboutSCP } from "./AboutSCP";
+export { default as AppFeatures } from "./AppFeatures";
+export { default as Security } from "./Security";
 export { default as HowItWorks } from "./HowItWorks";
 export { default as Screenshots } from "./Screenshots";
 export { default as FAQ } from "./FAQ";

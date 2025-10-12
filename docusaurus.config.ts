@@ -3,8 +3,8 @@ import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
-  title: "SCP-1471 MalO ver1.0.0",
-  tagline: "AI Companion App for Android",
+  title: "SCP-1471 MalO — Chat with the Mysterious SCP Companion",
+  tagline: "Experience the SCP-1471 AI companion app for Android. Chat with MalO and explore SCP Foundation lore.",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
@@ -107,6 +107,9 @@ gtag('config', 'G-XWQJNEH9KG');`,
         src: "img/malo-logo.webp",
       },
       items: [
+        { to: "/#about-scp-1471", label: "About SCP-1471", position: "left" },
+        { to: "/#app-features", label: "Features", position: "left" },
+        { to: "/#faq", label: "FAQ", position: "left" },
         {
           type: "docSidebar",
           sidebarId: "tutorialSidebar",
@@ -115,12 +118,11 @@ gtag('config', 'G-XWQJNEH9KG');`,
         },
         {
           href: "https://play.google.com/apps/testing/com.doctordredd.scp1471malo",
-          label: "Google Play - Download",
-          position: "left",
+          label: "Download",
+          position: "right",
         },
-        { to: "/blog", label: "Updates", position: "left" },
-        { to: "/contacts", label: "Contact", position: "left" },
-        { to: "/privacy", label: "Privacy", position: "right" },
+        { to: "/blog", label: "Updates", position: "right" },
+        { to: "/contacts", label: "Contact", position: "right" },
         {
           type: "html",
           position: "right",

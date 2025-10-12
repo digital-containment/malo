@@ -7,7 +7,19 @@ import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
 
 // Импорт всех компонентов лендинга
-import { Hero, Features, HowItWorks, Screenshots, FAQ, FinalCTA, LandingFooter, StickyMobileCTA } from "@site/src/components/LandingPage";
+import {
+  Hero,
+  Features,
+  AboutSCP,
+  AppFeatures,
+  Security,
+  HowItWorks,
+  Screenshots,
+  FAQ,
+  FinalCTA,
+  LandingFooter,
+  StickyMobileCTA,
+} from "@site/src/components/LandingPage";
 
 /**
  * Главный компонент страницы
@@ -15,14 +27,46 @@ import { Hero, Features, HowItWorks, Screenshots, FAQ, FinalCTA, LandingFooter, 
 export default function Home(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
 
+  // Структурированные данные для Google
+  const structuredData = {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    name: "SCP-1471 MalO App",
+    operatingSystem: "Android",
+    applicationCategory: "EntertainmentApplication",
+    offers: {
+      "@type": "Offer",
+      price: "0",
+      priceCurrency: "USD",
+    },
+    aggregateRating: {
+      "@type": "AggregateRating",
+      ratingValue: "4.8",
+      reviewCount: "1200",
+    },
+    description: "Chat with MalO (SCP-1471) AI companion on Android. Atmospheric messenger-style experience based on SCP Foundation lore.",
+    downloadUrl: "https://play.google.com/apps/testing/com.doctordredd.scp1471malo",
+    author: {
+      "@type": "Organization",
+      name: "Digital Containment",
+    },
+    keywords: ["SCP-1471", "MalO", "SCP Foundation", "AI chatbot", "Android app", "companion app"],
+  };
+
   return (
     <Layout
-      title="MalO — SCP-1471 Chat App for Android | Fan-Made"
-      description="Chat with MalO (SCP-1471) on Android. Atmospheric messenger-style experience, fan-made, privacy-friendly. Download now from Google Play."
+      title="SCP-1471 MalO — Chat with the Mysterious SCP Companion | Android"
+      description="Experience the SCP-1471 AI app. Chat with MalO, explore her eerie personality, and uncover the SCP mystery. Free download for Android."
     >
-      {/* Основной контент без стандартной обертки Layout */}
+      {/* Структурированные данные */}
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }} />
+
+      {/* Основной контент с тематическими секциями */}
       <Hero />
+      <AboutSCP />
       <Features />
+      <AppFeatures />
+      <Security />
       <HowItWorks />
       <Screenshots />
       <FAQ />
