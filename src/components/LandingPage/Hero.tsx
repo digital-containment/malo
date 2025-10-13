@@ -22,8 +22,7 @@ export default function Hero(): JSX.Element {
                 Start Chat
                 <span className={styles.cursor}>▋</span>
               </a>
-              <div className={styles.ctaSpacer} />
-              <BetaPlayButton location="hero" />
+              <BetaPlayButton location="hero" showMicroText={false} />
             </div>
 
             {/* Строка доверия */}
