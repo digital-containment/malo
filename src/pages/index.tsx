@@ -4,6 +4,7 @@
  */
 import React from "react";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
+import { translate } from "@docusaurus/Translate";
 import Layout from "@theme/Layout";
 
 // Импорт всех компонентов лендинга
@@ -54,11 +55,18 @@ export default function Home(): JSX.Element {
     keywords: ["SCP-1471", "MalO", "SCP Foundation", "AI chatbot", "Android app", "companion app"],
   };
 
+  const title = translate({
+    id: "homepage.title",
+    message: "SCP-1471 MalO — Chat with the Mysterious SCP Companion | Android",
+  });
+
+  const description = translate({
+    id: "homepage.description",
+    message: "Experience the SCP-1471 AI app. Chat with MalO, explore her eerie personality, and uncover the SCP mystery. Free download for Android.",
+  });
+
   return (
-    <Layout
-      title="SCP-1471 MalO — Chat with the Mysterious SCP Companion | Android"
-      description="Experience the SCP-1471 AI app. Chat with MalO, explore her eerie personality, and uncover the SCP mystery. Free download for Android."
-    >
+    <Layout title={title} description={description}>
       {/* Структурированные данные */}
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }} />
 

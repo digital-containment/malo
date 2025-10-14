@@ -61,7 +61,7 @@ MalO uses GPS data to:
 Data is not shared with third parties.
 :::
 
-## ⚠️ Side Effects
+## ⚠️ Side Effects {#side-effects}
 
 ### I started noticing MalO in real life
 

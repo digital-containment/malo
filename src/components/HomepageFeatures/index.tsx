@@ -1,5 +1,6 @@
 import clsx from "clsx";
 import Heading from "@theme/Heading";
+import useBaseUrl from "@docusaurus/useBaseUrl";
 import styles from "./styles.module.css";
 
 type FeatureItem = {
@@ -12,17 +13,17 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: "👥 Social Features",
-    Img: "/img/icons/social.png",
+    Img: useBaseUrl("/img/icons/social.png"),
     description: <>Chat with MalO through text messages, receive photos and share your moments</>,
   },
   {
     title: "📸 Camera Companion",
-    Img: "/img/icons/camera.png",
+    Img: useBaseUrl("/img/icons/camera.png"),
     description: <>MalO appears in your photos, creating unique and unforgettable memories</>,
   },
   {
     title: "🌙 Always There",
-    Img: "/img/icons/companion.png",
+    Img: useBaseUrl("/img/icons/companion.png"),
     description: <>24/7 support, personal AI companion who will never leave you</>,
   },
 ];

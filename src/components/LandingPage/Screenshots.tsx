@@ -1,4 +1,5 @@
 import React from "react";
+import useBaseUrl from "@docusaurus/useBaseUrl";
 import styles from "./Screenshots.module.css";
 
 /**
@@ -11,30 +12,29 @@ interface Screenshot {
 }
 
 /**
- * Список скриншотов приложения
- */
-const screenshots: Screenshot[] = [
-  {
-    src: "/img/screenshot-chat.png",
-    alt: "SCP-1471 chat app screenshot - conversation with MalO",
-    caption: "Chat with MalO",
-  },
-  {
-    src: "/img/screenshot-list.png",
-    alt: "SCP-1471 MalO app screenshot - chat list interface",
-    caption: "Clean chat list",
-  },
-  {
-    src: "/img/screenshot-privacy.png",
-    alt: "MalO Android app screenshot - privacy and license information",
-    caption: "Privacy? Of cose - no. It is SCP-1471 Malo",
-  },
-];
-
-/**
  * Компонент Screenshots - галерея скриншотов приложения
  */
 export default function Screenshots(): JSX.Element {
+  /**
+   * Список скриншотов приложения
+   */
+  const screenshots: Screenshot[] = [
+    {
+      src: useBaseUrl("/img/screenshot-chat.png"),
+      alt: "SCP-1471 chat app screenshot - conversation with MalO",
+      caption: "Chat with MalO",
+    },
+    {
+      src: useBaseUrl("/img/screenshot-list.png"),
+      alt: "SCP-1471 MalO app screenshot - chat list interface",
+      caption: "Clean chat list",
+    },
+    {
+      src: useBaseUrl("/img/screenshot-privacy.png"),
+      alt: "MalO Android app screenshot - privacy and license information",
+      caption: "Privacy? Of cose - no. It is SCP-1471 Malo",
+    },
+  ];
   return (
     <section className={styles.screenshots}>
       <div className="container">

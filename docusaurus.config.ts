@@ -20,13 +20,49 @@ const config: Config = {
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
+  onBrokenAnchors: "warn",
 
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
+  // Internationalization configuration
   i18n: {
     defaultLocale: "en",
-    locales: ["en"],
+    locales: ["en", "ru", "es", "de", "pt"],
+    localeConfigs: {
+      en: {
+        label: "English",
+        direction: "ltr",
+        htmlLang: "en-US",
+        calendar: "gregory",
+        path: "en",
+      },
+      ru: {
+        label: "Русский",
+        direction: "ltr",
+        htmlLang: "ru",
+        calendar: "gregory",
+        path: "ru",
+      },
+      es: {
+        label: "Español",
+        direction: "ltr",
+        htmlLang: "es",
+        calendar: "gregory",
+        path: "es",
+      },
+      de: {
+        label: "Deutsch",
+        direction: "ltr",
+        htmlLang: "de",
+        calendar: "gregory",
+        path: "de",
+      },
+      pt: {
+        label: "Português",
+        direction: "ltr",
+        htmlLang: "pt",
+        calendar: "gregory",
+        path: "pt",
+      },
+    },
   },
   plugins: [
     () => ({
@@ -123,6 +159,10 @@ gtag('config', 'G-XWQJNEH9KG');`,
         },
         { to: "/blog", label: "Updates", position: "right" },
         { to: "/contacts", label: "Contact", position: "right" },
+        {
+          type: "localeDropdown",
+          position: "right",
+        },
         {
           type: "html",
           position: "right",

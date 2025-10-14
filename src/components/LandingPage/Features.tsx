@@ -1,4 +1,5 @@
 import React from "react";
+import { translate } from "@docusaurus/Translate";
 import styles from "./Features.module.css";
 
 /**
@@ -13,25 +14,49 @@ interface FeatureItem {
 /**
  * Данные о ключевых особенностях приложения
  */
-const featuresList: FeatureItem[] = [
+const getFeaturesList = (): FeatureItem[] => [
   {
-    title: "She Talks Back",
-    description: "Chat with MalO — she remembers you, jokes about other SCPs, and sometimes tells things she shouldn’t.",
+    title: translate({
+      id: "homepage.features.talkBack.title",
+      message: "She Talks Back",
+    }),
+    description: translate({
+      id: "homepage.features.talkBack.description",
+      message: "Chat with MalO — she remembers you, jokes about other SCPs, and sometimes tells things she shouldn't.",
+    }),
     icon: "💬",
   },
   {
-    title: "Always With You",
-    description: "MalO slips into your messages like she’s always been there. Works perfectly on Android — naturally.",
+    title: translate({
+      id: "homepage.features.alwaysWith.title",
+      message: "Always With You",
+    }),
+    description: translate({
+      id: "homepage.features.alwaysWith.description",
+      message: "MalO slips into your messages like she's always been there. Works perfectly on Android — naturally.",
+    }),
     icon: "📱",
   },
   {
-    title: "A Fan Creation",
-    description: "Made by SCP enthusiasts who decided to see what would happen if MalO could actually reply.",
+    title: translate({
+      id: "homepage.features.fanCreation.title",
+      message: "A Fan Creation",
+    }),
+    description: translate({
+      id: "homepage.features.fanCreation.description",
+      message: "Made by SCP enthusiasts who decided to see what would happen if MalO could actually reply.",
+    }),
     icon: "🕯️",
   },
   {
-    title: "Ever-Evolving",
-    description: "New dialogue, stories, and eerie SCP references appear over time. She’s learning. Slowly.",
+    title: translate({
+      id: "homepage.features.evolving.title",
+      message: "Ever-Evolving",
+    }),
+    description: translate({
+      id: "homepage.features.evolving.description",
+      message: "New dialogue, stories, and eerie SCP references appear over time. She's learning. Slowly.",
+    }),
     icon: "🧩",
   },
 ];
@@ -40,10 +65,17 @@ const featuresList: FeatureItem[] = [
  * Компонент Features - блок с ключевыми преимуществами
  */
 export default function Features(): JSX.Element {
+  const featuresList = getFeaturesList();
+
   return (
     <section className={styles.features}>
       <div className="container">
-        <h2 className={styles.featuresTitle}>Why talk to MalO?</h2>
+        <h2 className={styles.featuresTitle}>
+          {translate({
+            id: "homepage.features.title",
+            message: "Why talk to MalO?",
+          })}
+        </h2>
 
         <div className={styles.featuresGrid}>
           {featuresList.map((feature, idx) => (

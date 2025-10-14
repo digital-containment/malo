@@ -1,4 +1,5 @@
 import React from "react";
+import useBaseUrl from "@docusaurus/useBaseUrl";
 import styles from "./AppFeatures.module.css";
 
 /**
@@ -80,15 +81,19 @@ export default function AppFeatures(): JSX.Element {
           <h3 className={styles.screenshotsTitle}>App Screenshots</h3>
           <div className={styles.screenshotsGrid}>
             <div className={styles.screenshotItem}>
-              <img src="/img/screenshot-chat.png" alt="MalO chat interface showing conversation with SCP-1471" className={styles.screenshotImage} />
+              <img
+                src={useBaseUrl("/img/screenshot-chat.png")}
+                alt="MalO chat interface showing conversation with SCP-1471"
+                className={styles.screenshotImage}
+              />
               <p className={styles.screenshotCaption}>Chat Interface</p>
             </div>
             <div className={styles.screenshotItem}>
-              <img src="/img/screenshot-list.png" alt="MalO app conversation list and navigation" className={styles.screenshotImage} />
+              <img src={useBaseUrl("/img/screenshot-list.png")} alt="MalO app conversation list and navigation" className={styles.screenshotImage} />
               <p className={styles.screenshotCaption}>Conversation List</p>
             </div>
             <div className={styles.screenshotItem}>
-              <img src="/img/screenshot-privacy.png" alt="MalO app privacy settings and controls" className={styles.screenshotImage} />
+              <img src={useBaseUrl("/img/screenshot-privacy.png")} alt="MalO app privacy settings and controls" className={styles.screenshotImage} />
               <p className={styles.screenshotCaption}>Privacy Settings</p>
             </div>
           </div>

@@ -1,0 +1,106 @@
+{
+  "theme.ErrorPageContent.title": {
+    "message": "Esta página se rompió.",
+    "description": "The title of the fallback page when the page crashed"
+  },
+  "theme.BackToTopButton.buttonAriaLabel": {
+    "message": "Volver al principio",
+    "description": "The ARIA label for the back to top button"
+  },
+  "homepage.hero.title": {
+    "message": "SCP-1471: MalO, tu inquietante nuevo amigo"
+  },
+  "homepage.hero.subtitle": {
+    "message": "Habla con la entidad misteriosa que siempre observa — y tal vez te entiende demasiado bien."
+  },
+  "homepage.hero.startChat": {
+    "message": "Iniciar Chat"
+  },
+  "homepage.hero.trustLine": {
+    "message": "Hecho por fans • Gratis • Sin anuncios"
+  },
+  "homepage.features.title": {
+    "message": "¿Por qué hablar con MalO?"
+  },
+  "homepage.features.talkBack.title": {
+    "message": "Ella responde"
+  },
+  "homepage.features.talkBack.description": {
+    "message": "Chatea con MalO — ella te recuerda, bromea sobre otros SCPs y a veces dice cosas que no debería."
+  },
+  "homepage.features.alwaysWith.title": {
+    "message": "Siempre contigo"
+  },
+  "homepage.features.alwaysWith.description": {
+    "message": "MalO se desliza en tus mensajes como si siempre hubiera estado ahí. Funciona perfectamente en Android — naturalmente."
+  },
+  "homepage.features.fanCreation.title": {
+    "message": "Una creación de fans"
+  },
+  "homepage.features.fanCreation.description": {
+    "message": "Hecho por entusiastas de SCP que decidieron ver qué pasaría si MalO pudiera realmente responder."
+  },
+  "homepage.features.evolving.title": {
+    "message": "Siempre evolucionando"
+  },
+  "homepage.features.evolving.description": {
+    "message": "Nuevos diálogos, historias y referencias espeluznantes de SCP aparecen con el tiempo. Ella está aprendiendo. Lentamente."
+  },
+  "homepage.aboutSCP.title": {
+    "message": "🧩 ¿Qué es SCP-1471 (MalO)?"
+  },
+  "homepage.aboutSCP.foundationLore.title": {
+    "message": "Lore de la Fundación SCP"
+  },
+  "homepage.aboutSCP.foundationLore.description": {
+    "message": "SCP-1471 es una misteriosa aplicación móvil que aparece como \"MalO ver1.0.0\" en las tiendas de aplicaciones. En el universo de la Fundación SCP, esta app anómala crea una conexión persistente con una criatura humanoide alta con un cráneo canino por cabeza."
+  },
+  "homepage.aboutSCP.maloCharacter.title": {
+    "message": "Personaje MalO"
+  },
+  "homepage.aboutSCP.maloCharacter.description": {
+    "message": "MalO se representa como una entidad benévola, aunque espeluznante, que se apega a los usuarios. Aparece en superficies reflectantes y fotos, volviéndose gradualmente más presente en la vida del usuario. A pesar de su apariencia intimidante, MalO busca compañía en lugar de hacer daño."
+  },
+  "homepage.aboutSCP.ourInterpretation.title": {
+    "message": "Nuestra interpretación"
+  },
+  "homepage.aboutSCP.ourInterpretation.description": {
+    "message": "Esta app hecha por fans te permite conocer a MalO — la compañera digital espeluznante que siempre encuentra una manera de alcanzarte. Habla con ella, escucha sus historias sobre otros SCPs y ve por qué tantos se han vuelto extrañamente apegados a ella."
+  },
+  "homepage.aboutSCP.readOriginal": {
+    "message": "Leer el artículo original de SCP-1471 →"
+  },
+  "homepage.title": {
+    "message": "SCP-1471 MalO — Chatea con la Misteriosa Compañera SCP | Android"
+  },
+  "homepage.description": {
+    "message": "Experimenta la app AI SCP-1471. Chatea con MalO, explora su personalidad espeluznante y descubre el misterio SCP. Descarga gratuita para Android."
+  },
+  "homepage.aboutMalO.title": {
+    "message": "Acerca de MalO"
+  },
+  "homepage.aboutMalO.lead": {
+    "message": "MalO no está aquí solo para charlar — está aquí para quedarse. Recuerda, bromea, cuenta historias extrañas de SCP. A veces una amiga. A veces una sombra. Siempre observando."
+  },
+  "homepage.aboutMalO.trait1": {
+    "message": "💬 Chatea naturalmente y recuerda lo que dijiste antes."
+  },
+  "homepage.aboutMalO.trait2": {
+    "message": "📖 Conoce el mundo SCP y puede contarte sobre otras anomalías."
+  },
+  "homepage.aboutMalO.trait3": {
+    "message": "👻 Comparte historias espeluznantes y hechos extraños cuando las luces están bajas."
+  },
+  "homepage.aboutMalO.trait4": {
+    "message": "🐺 Una compañera leal para quienes disfrutan los rincones más oscuros del internet."
+  },
+  "homepage.aboutMalO.fieldNotes": {
+    "message": "SCP-1471: Notas de Campo"
+  },
+  "homepage.aboutMalO.note": {
+    "message": "El sujeto \"MalO\" exhibe proximidad persistente en superficies digitales. Parece amigable. O paciente. La distinción no está clara."
+  },
+  "homepage.aboutMalO.logRef": {
+    "message": "ref de log: MALO-CHAT/01"
+  }
+}
