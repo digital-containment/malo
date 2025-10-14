@@ -10,8 +10,6 @@ interface FAQItem {
   answer: string;
 }
 
-
-
 /**
  * Компонент для одного аккордеона FAQ
  */

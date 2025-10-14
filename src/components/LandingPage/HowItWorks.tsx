@@ -11,8 +11,6 @@ interface Step {
   description: string;
 }
 
-
-
 /**
  * Компонент HowItWorks - инструкция по использованию приложения
  */
