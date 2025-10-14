@@ -8,7 +8,7 @@
     "description": "Navbar item with label Features"
   },
   "item.label.FAQ": {
-    "message": "ЧЗВ",
+    "message": "FAQ",
     "description": "Navbar item with label FAQ"
   },
   "item.label.Documentation": {

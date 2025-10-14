@@ -1,4 +1,5 @@
 import React from "react";
+import { translate } from "@docusaurus/Translate";
 import styles from "./BetaPlayButton.module.css";
 import { trackGooglePlayVisit } from "@site/src/utils/utils";
 
@@ -38,10 +39,20 @@ export default function BetaPlayButton({ showMicroText = true, className = "", l
         rel="noopener noreferrer"
         onClick={handleClick}
       >
-        Join the Beta on Google Play
+        {translate({
+          id: "betaPlayButton.joinBeta",
+          message: "Join the Beta on Google Play",
+        })}
       </a>
 
-      {showMicroText && <p className={styles.microText}>Limited beta access — availability may vary.</p>}
+      {showMicroText && (
+        <p className={styles.microText}>
+          {translate({
+            id: "betaPlayButton.microText",
+            message: "Limited beta access — availability may vary.",
+          })}
+        </p>
+      )}
     </div>
   );
 }

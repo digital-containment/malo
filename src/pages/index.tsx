@@ -19,7 +19,6 @@ import {
   Screenshots,
   FAQ,
   FinalCTA,
-  LandingFooter,
   StickyMobileCTA,
 } from "@site/src/components/LandingPage";
 
@@ -81,7 +80,6 @@ export default function Home(): JSX.Element {
       <Screenshots />
       <FAQ />
       <FinalCTA />
-      <LandingFooter />
 
       {/* Липкая CTA кнопка для мобильных (появляется при скролле) */}
       <StickyMobileCTA />

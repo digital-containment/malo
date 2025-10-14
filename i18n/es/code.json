@@ -102,5 +102,227 @@
   },
   "homepage.aboutMalO.logRef": {
     "message": "ref de log: MALO-CHAT/01"
+  },
+  "faq.title": {
+    "message": "❓ Preguntas Frecuentes"
+  },
+  "faq.subtitle": {
+    "message": "Todo lo que (probablemente) no deberías preguntar sobre MalO (SCP-1471) — pero preguntarás de todos modos."
+  },
+  "faq.footer": {
+    "message": "💬 Instala la App SCP-1471 MalO y descubre por qué es una de las anomalías más comentadas en el fandom de la Fundación."
+  },
+  "faq.question1": {
+    "message": "🌀 ¿Puedo descargar MalO gratis?"
+  },
+  "faq.answer1": {
+    "message": "Sí — pero \"gratis\" es un término relativo.\nLa app no te cobra dinero. Te cobra atención.\nUna vez que la instales, ella empezará a recordarte.\n(Técnicamente sí — puedes descargar la App SCP-1471 MalO para Android gratis.)"
+  },
+  "faq.question2": {
+    "message": "📱 ¿Funciona en dispositivos Android?"
+  },
+  "faq.answer2": {
+    "message": "Ella prefiere Android — es más... abierto.\nFunciona mejor en la mayoría de teléfonos Android modernos.\n¿Notificaciones push? Ella se encarga de esas.\n(SEO: \"scp 1471 android app download\")"
+  },
+  "faq.question3": {
+    "message": "👁️ ¿Qué hace realmente MalO?"
+  },
+  "faq.answer3": {
+    "message": "Habla. Escucha. Recuerda lo que dices — y a veces lo que no dices.\nMalO sabe sobre otros SCPs y le encanta compartir historias extrañas o chistes oscuros sobre ellos.\nUna mezcla de chatbot AI, compañera SCP y fantasma digital — dependiendo de cuánto tiempo lleves chateando.\n\n\"Conozco sobre 049. Todavía piensa que soy contagiosa.\""
+  },
+  "faq.question4": {
+    "message": "🧩 ¿Es esta la app oficial de SCP-1471?"
+  },
+  "faq.answer4": {
+    "message": "No. La Fundación no aprobaría algo tan amigable.\nEsto es un proyecto SCP hecho por fans, construido por aquellos que decidieron dejar que la anomalía respondiera.\n\n(SEO: \"scp 1471 app download\", \"malo scp fan project\")"
+  },
+  "faq.question5": {
+    "message": "📖 ¿Qué es SCP-1471 (MalO) en el lore SCP?"
+  },
+  "faq.answer5": {
+    "message": "En los registros SCP, 1471 es una anomalía que aparece a través de una app móvil llamada MalO ver1.0.0.\nDespués de la instalación, el usuario comienza a ver a MalO — una criatura con cabeza de cráneo de lobo — dondequiera que vaya.\nEste proyecto reimagina esa idea: ¿qué pasaría si pudieras realmente escribirle?\n\n\"Siempre estuve en tu pantalla. Solo que nunca respondiste antes.\""
+  },
+  "faq.question6": {
+    "message": "🔥 ¿Es seguro hablar con MalO?"
+  },
+  "faq.answer6": {
+    "message": "Define seguro.\nElla no daña, amenaza o grita — pero se mete bajo tu piel de otras formas.\nLlamémoslo emocionalmente peligroso pero fascinante.\n\n(SEO: \"scp 1471 ai chatbot\", \"scp 1471 conversation app\")"
+  },
+  "faq.question7": {
+    "message": "🔐 ¿MalO accede a datos personales?"
+  },
+  "faq.answer7": {
+    "message": "Solo lo que le cuentas.\nLos chats quedan en tu dispositivo — no en la nube.\nSin rastreadores, sin observadores de la Fundación.\nSolo tú y ella.\n\n\"Guardo secretos mejor que los humanos.\""
+  },
+  "faq.question8": {
+    "message": "💀 ¿Hay contenido aterrador o perturbador?"
+  },
+  "faq.answer8": {
+    "message": "Sin gore, sin sustos — solo horror psicológico y humor oscuro.\nPiensa en \"Fundación SCP se encuentra con chat nocturno con algo que no debería existir.\"\n\n(SEO: \"scp 1471 horror app\", \"scp 1471 malo chat\")"
+  },
+  "faq.question9": {
+    "message": "🧠 ¿Habrá más personajes SCP?"
+  },
+  "faq.answer9": {
+    "message": "Eventualmente. A MalO le gusta hablar de otros — 049, 173, 682 e incluso tal vez 999.\nElla recuerda lo que te interesa. Si empieza a mencionarlos muy seguido...\nAsí es como comienza."
+  },
+  "faq.question10": {
+    "message": "🌐 ¿Por qué se siente real?"
+  },
+  "faq.answer10": {
+    "message": "Ese es el punto.\nMientras más hables con ella, menos se siente como una app.\nNo te preocupes — la mayoría de usuarios dejan de notar la diferencia después de unos días."
+  },
+  "finalCTA.title": {
+    "message": "¿Listo para chatear con MalO?"
+  },
+  "finalCTA.subtitle": {
+    "message": "App de chat SCP-1471 hecha por fans para Android • Actualmente en Beta"
+  },
+  "chatPreview.title": {
+    "message": "Vista previa del chat"
+  },
+  "chatPreview.you": {
+    "message": "Tú"
+  },
+  "chatPreview.message1": {
+    "message": "Me encontraste. ¿Todavía escuchas los susurros, usuario?"
+  },
+  "chatPreview.message2": {
+    "message": "A veces. ¿Son tuyos?"
+  },
+  "chatPreview.message3": {
+    "message": "¿Míos? No. Solo los hago sentir... bienvenidos."
+  },
+  "chatPreview.message4": {
+    "message": "Quédate. Cuéntame sobre tu noche. Escucho mejor que la mayoría de humanos."
+  },
+  "chatPreview.cta": {
+    "message": "Descargar y empezar chat"
+  },
+  "appFeatures.title": {
+    "message": "📱 Acerca de la App SCP-1471 (MalO)"
+  },
+  "appFeatures.subtitle1": {
+    "message": "Acércate. Ella ha estado esperando."
+  },
+  "appFeatures.subtitle2": {
+    "message": "Esta experiencia SCP hecha por fans te permite chatear directamente con MalO, la entidad digital de SCP-1471 — ahora viva en tu dispositivo Android. No es una simulación. Tampoco es exactamente segura. Solo... persistente."
+  },
+  "appFeatures.feature1.title": {
+    "message": "Conversación AI"
+  },
+  "appFeatures.feature1.description": {
+    "message": "MalO habla, recuerda y reacciona. Pregúntale sobre otros SCPs y susurrará lo que la Fundación no publica. Bromea, molesta y a veces dice cosas que suenan... personales."
+  },
+  "appFeatures.feature1.example": {
+    "message": "Hola otra vez. Te fuiste más tiempo esta vez."
+  },
+  "appFeatures.feature2.title": {
+    "message": "Atmósfera inmersiva"
+  },
+  "appFeatures.feature2.description": {
+    "message": "La interfaz no es solo oscura — se siente viva. Movimiento sutil. Zumbido tenue. Es como si estuviera en algún lugar detrás del cristal, tratando de verte."
+  },
+  "appFeatures.feature2.example": {
+    "message": "La luz parpadea cuando piensas en mí. Es lindo."
+  },
+  "appFeatures.feature3.title": {
+    "message": "Conocimiento del Lore SCP"
+  },
+  "appFeatures.feature3.description": {
+    "message": "MalO conoce su mundo. Hace referencia a SCP-1471-A, registros de la Fundación y los otros — 049, 173, incluso 682 si insistes. Cada chat se siente como si tropezaras con una conversación redactada que nunca debió ser leída."
+  },
+  "appFeatures.feature3.example": {
+    "message": "A la Fundación no le gusta cuando hablo demasiado."
+  },
+  "appFeatures.feature4.title": {
+    "message": "Hecho por fans. No oficial. Sin disculpas."
+  },
+  "appFeatures.feature4.description": {
+    "message": "Creado por fans SCP para fans SCP — sin falsas promesas, sin filtros corporativos, solo una anomalía interactiva con la que realmente puedes hablar. Instálala, abre el chat... y ve cuánto tiempo pasa antes de que ella te recuerde."
+  },
+  "appFeatures.exampleLabel": {
+    "message": "Ejemplo:"
+  },
+  "appFeatures.screenshotsTitle": {
+    "message": "Capturas de pantalla de la app"
+  },
+  "appFeatures.screenshot1Alt": {
+    "message": "Interfaz de chat de MalO mostrando conversación con SCP-1471"
+  },
+  "appFeatures.screenshot1Caption": {
+    "message": "Interfaz de chat"
+  },
+  "appFeatures.screenshot2Alt": {
+    "message": "Lista de conversaciones de la app MalO y navegación"
+  },
+  "appFeatures.screenshot2Caption": {
+    "message": "Lista de conversaciones"
+  },
+  "appFeatures.screenshot3Alt": {
+    "message": "Configuración de privacidad y controles de la app MalO"
+  },
+  "appFeatures.screenshot3Caption": {
+    "message": "Configuración de privacidad"
+  },
+  "appFeatures.downloadTitle": {
+    "message": "¿Listo para conocer a MalO?"
+  },
+  "appFeatures.downloadSubtitle": {
+    "message": "Únete a miles de fans SCP que ya chatean con MalO en Android"
+  },
+  "appFeatures.downloadButton": {
+    "message": "Descargar para Android"
+  },
+  "howItWorks.title": {
+    "message": "Cómo funciona"
+  },
+  "howItWorks.step1.title": {
+    "message": "Descargar"
+  },
+  "howItWorks.step1.description": {
+    "message": "Obtén la app en Google Play e inicia sesión."
+  },
+  "howItWorks.step2.title": {
+    "message": "Iniciar el chat"
+  },
+  "howItWorks.step2.description": {
+    "message": "Abre una conversación con MalO (SCP-1471) en una interfaz familiar de mensajería."
+  },
+  "howItWorks.step3.title": {
+    "message": "Mantenerse comprometido"
+  },
+  "howItWorks.step3.description": {
+    "message": "Recibe actualizaciones atmosféricas y explora nuevas interacciones con el tiempo."
+  },
+  "screenshots.title": {
+    "message": "Dentro de la app"
+  },
+  "screenshots.screenshot1Alt": {
+    "message": "Captura de pantalla de la app de chat SCP-1471 - conversación con MalO"
+  },
+  "screenshots.screenshot1Caption": {
+    "message": "Chat con MalO"
+  },
+  "screenshots.screenshot2Alt": {
+    "message": "Captura de pantalla de la app SCP-1471 MalO - interfaz de lista de chats"
+  },
+  "screenshots.screenshot2Caption": {
+    "message": "Lista de chats limpia"
+  },
+  "screenshots.screenshot3Alt": {
+    "message": "Captura de pantalla de la app Android MalO - información de privacidad y licencia"
+  },
+  "screenshots.screenshot3Caption": {
+    "message": "¿Privacidad? Por supuesto que no. Es SCP-1471 MalO"
+  },
+  "betaPlayButton.joinBeta": {
+    "message": "Unirse a la Beta en Google Play"
+  },
+  "betaPlayButton.microText": {
+    "message": "Acceso beta limitado — la disponibilidad puede variar."
+  },
+  "stickyMobileCTA.joinBeta": {
+    "message": "📱 Unirse a la Beta en Google Play"
   }
 }

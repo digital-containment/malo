@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import { translate } from "@docusaurus/Translate";
 import styles from "./StickyMobileCTA.module.css";
 import { trackGooglePlayVisit } from "@site/src/utils/utils";
 
@@ -37,7 +38,10 @@ export default function StickyMobileCTA(): JSX.Element {
         rel="noopener noreferrer"
         onClick={handleClick}
       >
-        📱 Join Beta on Google Play
+        {translate({
+          id: "stickyMobileCTA.joinBeta",
+          message: "📱 Join Beta on Google Play",
+        })}
       </a>
     </div>
   );

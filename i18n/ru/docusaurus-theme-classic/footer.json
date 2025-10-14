@@ -20,7 +20,7 @@
     "description": "The label of footer link with label=Installation linking to /docs/installation"
   },
   "link.item.label.FAQ": {
-    "message": "ЧЗВ",
+    "message": "FAQ",
     "description": "The label of footer link with label=FAQ linking to /docs/faq"
   },
   "link.item.label.SCP-1471 Article": {

@@ -13,6 +13,5 @@ export { default as HowItWorks } from "./HowItWorks";
 export { default as Screenshots } from "./Screenshots";
 export { default as FAQ } from "./FAQ";
 export { default as FinalCTA } from "./FinalCTA";
-export { default as LandingFooter } from "./LandingFooter";
 export { default as StickyMobileCTA } from "./StickyMobileCTA";
 export { default as BetaPlayButton } from "./BetaPlayButton";

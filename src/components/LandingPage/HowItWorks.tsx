@@ -1,4 +1,5 @@
 import React from "react";
+import { translate } from "@docusaurus/Translate";
 import styles from "./HowItWorks.module.css";
 
 /**
@@ -10,35 +11,60 @@ interface Step {
   description: string;
 }
 
-/**
- * Шаги использования приложения
- */
-const steps: Step[] = [
-  {
-    number: 1,
-    title: "Download",
-    description: "Get the app on Google Play and sign in.",
-  },
-  {
-    number: 2,
-    title: "Start the Chat",
-    description: "Open a conversation with MalO (SCP-1471) in a familiar messenger UI.",
-  },
-  {
-    number: 3,
-    title: "Stay Engaged",
-    description: "Receive atmospheric updates and explore new interactions over time.",
-  },
-];
+
 
 /**
  * Компонент HowItWorks - инструкция по использованию приложения
  */
 export default function HowItWorks(): JSX.Element {
+  /**
+   * Шаги использования приложения с переводами
+   */
+  const steps: Step[] = [
+    {
+      number: 1,
+      title: translate({
+        id: "howItWorks.step1.title",
+        message: "Download",
+      }),
+      description: translate({
+        id: "howItWorks.step1.description",
+        message: "Get the app on Google Play and sign in.",
+      }),
+    },
+    {
+      number: 2,
+      title: translate({
+        id: "howItWorks.step2.title",
+        message: "Start the Chat",
+      }),
+      description: translate({
+        id: "howItWorks.step2.description",
+        message: "Open a conversation with MalO (SCP-1471) in a familiar messenger UI.",
+      }),
+    },
+    {
+      number: 3,
+      title: translate({
+        id: "howItWorks.step3.title",
+        message: "Stay Engaged",
+      }),
+      description: translate({
+        id: "howItWorks.step3.description",
+        message: "Receive atmospheric updates and explore new interactions over time.",
+      }),
+    },
+  ];
+
   return (
     <section className={styles.howItWorks}>
       <div className="container">
-        <h2 className={styles.sectionTitle}>How It Works</h2>
+        <h2 className={styles.sectionTitle}>
+          {translate({
+            id: "howItWorks.title",
+            message: "How It Works",
+          })}
+        </h2>
 
         <div className={styles.stepsContainer}>
           {steps.map((step) => (
