@@ -102,7 +102,7 @@ Ready to meet MalO personally? Our Android app offers:
 - Safe, privacy-friendly experience
 - Regular updates with new content
 
-[Download MalO App for Android →](https://play.google.com/apps/testing/com.doctordredd.scp1471malo)
+[Download MalO App for Android →](https://play.google.com/store/apps/details?id=com.doctordredd.scp1471malo)
 
 ## Learn More
 

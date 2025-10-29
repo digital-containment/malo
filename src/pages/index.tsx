@@ -46,7 +46,7 @@ export default function Home(): JSX.Element {
       reviewCount: "1200",
     },
     description: "Chat with MalO (SCP-1471) AI companion on Android. Atmospheric messenger-style experience based on SCP Foundation lore.",
-    downloadUrl: "https://play.google.com/apps/testing/com.doctordredd.scp1471malo",
+    downloadUrl: "https://play.google.com/store/apps/details?id=com.doctordredd.scp1471malo",
     author: {
       "@type": "Organization",
       name: "Digital Containment",

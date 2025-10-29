@@ -99,14 +99,14 @@
 // При клике по кнопке в Hero-секции:
 ym(104372760, "reachGoal", "download-click", {
   location: "hero",
-  url: "https://play.google.com/apps/testing/com.doctordredd.scp1471malo",
+  url: "https://play.google.com/store/apps/details?id=com.doctordredd.scp1471malo",
   timestamp: 1697040000000,
 });
 
 // Дополнительно:
 ym(104372760, "reachGoal", "download-click-hero", {
   location: "hero",
-  url: "https://play.google.com/apps/testing/com.doctordredd.scp1471malo",
+  url: "https://play.google.com/store/apps/details?id=com.doctordredd.scp1471malo",
   timestamp: 1697040000000,
 });
 ```

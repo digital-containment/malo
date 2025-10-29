@@ -60,7 +60,7 @@ export default function ChatPreview(): JSX.Element {
           </div>
         </div>
         <div className={styles.ctaRow}>
-          <a href="https://play.google.com/apps/testing/com.doctordredd.scp1471malo" className={styles.cta} target="_blank" rel="noopener noreferrer">
+          <a href="https://play.google.com/store/apps/details?id=com.doctordredd.scp1471malo" className={styles.cta} target="_blank" rel="noopener noreferrer">
             {translate({
               id: "chatPreview.cta",
               message: "Download and Start Chat",

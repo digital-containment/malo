@@ -64,7 +64,7 @@ export default function MyComponent() {
 По умолчанию ведет на:
 
 ```
-https://play.google.com/apps/testing/com.doctordredd.scp1471malo
+https://play.google.com/store/apps/details?id=com.doctordredd.scp1471malo
 ```
 
 Для изменения:

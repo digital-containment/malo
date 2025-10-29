@@ -153,7 +153,7 @@ gtag('config', 'G-XWQJNEH9KG');`,
           label: "Documentation",
         },
         {
-          href: "https://play.google.com/apps/testing/com.doctordredd.scp1471malo",
+          href: "https://play.google.com/store/apps/details?id=com.doctordredd.scp1471malo",
           label: "Download",
           position: "right",
         },

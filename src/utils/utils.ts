@@ -71,5 +71,5 @@ export function trackAppDownloadClick(location: string, url: string): void {
  * Отслеживает переход на Google Play
  */
 export function trackGooglePlayVisit(location: string): void {
-  trackAppDownloadClick(location, "https://play.google.com/apps/testing/com.doctordredd.scp1471malo");
+  trackAppDownloadClick(location, "https://play.google.com/store/apps/details?id=com.doctordredd.scp1471malo");
 }

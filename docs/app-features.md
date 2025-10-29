@@ -179,7 +179,7 @@ Our SCP-1471 MalO app delivers an immersive companion experience with advanced f
 
 Ready to experience SCP-1471 like never before?
 
-[Download MalO App for Android →](https://play.google.com/apps/testing/com.doctordredd.scp1471malo)
+[Download MalO App for Android →](https://play.google.com/store/apps/details?id=com.doctordredd.scp1471malo)
 
 ---
 

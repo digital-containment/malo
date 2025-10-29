@@ -14,7 +14,7 @@ Welcome to the website of SCP-1471 "MalO ver1.0.0" - an anomalous AI companion a
 
 - 🤖 **Android**: [Google Play Store](https://play.google.com/store/apps/details?id=com.doctordredd.scp1471malo)
 
-- [Join for testing in Google Play Store](https://play.google.com/apps/testing/com.doctordredd.scp1471malo)
+- [Join for testing in Google Play Store](https://play.google.com/store/apps/details?id=com.doctordredd.scp1471malo)
 
 ## 🛡️ Safety
 

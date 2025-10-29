@@ -33,7 +33,7 @@ export default function BetaPlayButton({ showMicroText = true, className = "", l
   return (
     <div className={`${styles.betaButtonContainer} ${className}`}>
       <a
-        href="https://play.google.com/apps/testing/com.doctordredd.scp1471malo"
+        href="https://play.google.com/store/apps/details?id=com.doctordredd.scp1471malo"
         className={styles.playBtn}
         target="_blank"
         rel="noopener noreferrer"
