@@ -1,71 +1,79 @@
 # SCP-1471 MalO
 
 **Version 1.0.0**
+**Privacy Policy**
 
-## About the App
+This privacy policy is applicable to the SCP-1471 MalO app (hereinafter referred to as "Application") for mobile devices, which was developed by Imba-Dev LLP (hereinafter referred to as "Service Provider") as a an Ad Supported service. This service is provided "AS IS".
 
-SCP-1471 MalO is an application based on an SCP Foundation object. This mobile communication app is inspired by the anomalous object SCP-1471 from the SCP Foundation universe. The application provides secure messaging capabilities with a unique approach to user experience.
+**What information does the Application obtain and how is it used?**  
+**User Provided Information**
 
-## Privacy Policy
+The Application acquires the information you supply when you download and register the Application. Registration with the Service Provider is not mandatory. However, bear in mind that you might not be able to utilize some of the features offered by the Application unless you register with them.
 
-### SCP-1471 MalO
+The Service Provider may also use the information you provided them to contact you from time to time to provide you with important information, required notices and marketing promotions.
 
-**Last updated: 27.09.2025**
+**Automatically Collected Information**
 
-This Privacy Policy explains how our application ("App") handles user information. By installing or using the App, you agree to the practices described in this Policy.
+In addition, the Application may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the way you use the Application.
 
-### 1. Information We Collect
+**Does the Application collect precise real time location information of the device?**
 
-The App itself does not require you to create an account. Depending on how you use the App, the following types of data may be collected automatically:
+This Application does not gather precise information about the location of your mobile device.
 
-Device information: such as device model, operating system version, app version, and crash reports.
+This Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
 
-Usage data: interactions within the App (for example, how often you open it), collected anonymously for analytics and performance improvements.
+- Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
+- Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
+- Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
 
-The App does not request access to sensitive information unless explicitly stated in future updates.
+**Do third parties see and/or have access to information obtained by the Application?**
 
-### 2. How We Use Information
+Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
 
-We use the collected data only to:
+Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
 
-- Improve app stability and performance.
-- Understand general usage trends to make the App better.
-- Detect and fix technical issues.
+- [Google Play Services](https://www.google.com/policies/privacy/)
+- [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+- [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
+- [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+- [Appodeal](https://www.appodeal.com/home/privacy-policy/)
+- [Expo](https://expo.io/privacy)
+- [Adjust](https://www.adjust.com/terms/privacy-policy)
 
-We do not sell or share your personal information with third parties for marketing purposes.
+The Service Provider may disclose User Provided and Automatically Collected Information:
 
-### 3. Third-Party Services
+- as required by law, such as to comply with a subpoena, or similar legal process;
+- when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
+- with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
 
-The App may use third-party tools (for example, Google Play Services, Firebase Analytics, or crash reporting tools). These services may collect and process data as described in their own privacy policies.
+**What are my opt-out rights?**
 
-### 4. Data Retention
+You can halt all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
 
-We keep collected information only as long as necessary to provide and improve the App. Non-personal usage data may be stored for analytical purposes.
+**Data Retention Policy, Managing Your Information**
 
-### 5. Children's Privacy
+The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. The Service Provider will retain Automatically Collected information for up to 24 months and thereafter may store it in aggregate. If you'd like the Service Provider to delete User Provided Data that you have provided via the Application, please contact them at support@imbadev.com and we will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly.
 
-This App is not directed at children under the age of 13. We do not knowingly collect personally identifiable information from children. If you believe your child has provided such data, please contact us and we will delete it.
+**Children**
 
-### 6. Security
+The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
 
-We take reasonable steps to protect information processed by the App.
+The Application does not address anyone under the age of 13\. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (support@imbadev.com) so that they will be able to take the necessary actions.
 
-### 7. Changes to This Policy
+**Security**
 
-We may update this Privacy Policy from time to time. Updates will be posted within the App or on the store listing.
+The Service Provider are concerned about safeguarding the confidentiality of your information. The Service Provider provide physical, electronic, and procedural safeguards to protect information we process and maintain. For example, we limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop or improve their Application. Please be aware that, although we endeavor provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.
 
-### 8. Contact Us
+**Changes**
 
-If you have questions about this Privacy Policy, you can contact us at:
+This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-📧 too.imbadev@gmail.com
+This privacy policy is effective as of 2025-11-12
 
-## Legal Information
+**Your Consent**
 
-SCP-1471 MalO is an object of the SCP Foundation. This application is distributed under the Creative Commons license, the same as all SCP Foundation related content.
+By using the Application, you are giving your consent to the Service Provider processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing,” means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information.
 
-This is not an official SCP Foundation product.
+**Contact us**
 
-## Contact & Support
-
-For technical support or inquiries, please contact us on too.imbadev@gmail.com or Google Play application page
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at support@imbadev.com.

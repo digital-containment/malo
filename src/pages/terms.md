@@ -5,206 +5,44 @@ description: Terms of Service for MalO ver1.0.0 Android Application
 
 # Terms of Service for MalO ver1.0.0
 
-**Effective Date:** October 2, 2025  
-**Last Updated:** October 2, 2025
+**Terms & Conditions**
 
-## 1. Acceptance of Terms
+These terms and conditions apply to the SCP-1471 MalO app (hereby referred to as "Application") for mobile devices that was created by Imba-Dev LLP (hereby referred to as "Service Provider") as an Ad Supported service.
 
-By downloading, installing, or using the MalO ver1.0.0 mobile application (the "App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the App.
+Upon downloading or utilizing the Application, you are automatically agreeing to the following terms. It is strongly advised that you thoroughly read and understand these terms prior to using the Application.
 
-## 2. Description of Service
+Unauthorized copying, modification of the Application, any part of the Application, or our trademarks is strictly prohibited. Any attempts to extract the source code of the Application, translate the Application into other languages, or create derivative versions are not permitted. All trademarks, copyrights, database rights, and other intellectual property rights related to the Application remain the property of the Service Provider.
 
-MalO ver1.0.0 is an AI companion application that provides:
+The Service Provider is dedicated to ensuring that the Application is as beneficial and efficient as possible. As such, they reserve the right to modify the Application or charge for their services at any time and for any reason. The Service Provider assures you that any charges for the Application or its services will be clearly communicated to you.
 
-- Personalized AI interactions
-- Augmented reality features
-- Photo manipulation and enhancement
-- Social companion functionality
+The Application stores and processes personal data that you have provided to the Service Provider in order to provide the Service. It is your responsibility to maintain the security of your phone and access to the Application. The Service Provider strongly advise against jailbreaking or rooting your phone, which involves removing software restrictions and limitations imposed by the official operating system of your device. Such actions could expose your phone to malware, viruses, malicious programs, compromise your phone's security features, and may result in the Application not functioning correctly or at all.
 
-## 3. Age Requirements and Eligibility
+Please note that the Application utilizes third-party services that have their own Terms and Conditions. Below are the links to the Terms and Conditions of the third-party service providers used by the Application:
 
-### 3.1 Minimum Age
+- [Google Play Services](https://policies.google.com/terms)
+- [AdMob](https://developers.google.com/admob/terms)
+- [Google Analytics for Firebase](https://www.google.com/analytics/terms/)
+- [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
+- [Appodeal](https://www.appodeal.com/home/terms-of-service/)
+- [Expo](https://expo.io/terms)
+- [Adjust](https://www.adjust.com/terms/general-terms-and-conditions)
 
-- **13+ years**: Minimum age for use in most jurisdictions
+Please be aware that the Service Provider does not assume responsibility for certain aspects. Some functions of the Application require an active internet connection, which can be Wi-Fi or provided by your mobile network provider. The Service Provider cannot be held responsible if the Application does not function at full capacity due to lack of access to Wi-Fi or if you have exhausted your data allowance.
 
-### 3.2 Capacity to Contract
+If you are using the application outside of a Wi-Fi area, please be aware that your mobile network provider's agreement terms still apply. Consequently, you may incur charges from your mobile provider for data usage during the connection to the application, or other third-party charges. By using the application, you accept responsibility for any such charges, including roaming data charges if you use the application outside of your home territory (i.e., region or country) without disabling data roaming. If you are not the bill payer for the device on which you are using the application, they assume that you have obtained permission from the bill payer.
 
-You represent that you have the legal capacity to enter into this agreement and are not barred from using the service under applicable law.
+Similarly, the Service Provider cannot always assume responsibility for your usage of the application. For instance, it is your responsibility to ensure that your device remains charged. If your device runs out of battery and you are unable to access the Service, the Service Provider cannot be held responsible.
 
-## 4. User Responsibilities
+In terms of the Service Provider's responsibility for your use of the application, it is important to note that while they strive to ensure that it is updated and accurate at all times, they do rely on third parties to provide information to them so that they can make it available to you. The Service Provider accepts no liability for any loss, direct or indirect, that you experience as a result of relying entirely on this functionality of the application.
 
-### 4.1 Appropriate Use
+The Service Provider may wish to update the application at some point. The application is currently available as per the requirements for the operating system (and for any additional systems they decide to extend the availability of the application to) may change, and you will need to download the updates if you want to continue using the application. The Service Provider does not guarantee that it will always update the application so that it is relevant to you and/or compatible with the particular operating system version installed on your device. However, you agree to always accept updates to the application when offered to you. The Service Provider may also wish to cease providing the application and may terminate its use at any time without providing termination notice to you. Unless they inform you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must cease using the application, and (if necessary) delete it from your device.
 
-You agree to:
+**Changes to These Terms and Conditions**
 
-- Use the App for personal, non-commercial purposes only
-- Comply with all applicable laws and regulations
-- Use the application responsibly
-- Report any technical issues or concerns
+The Service Provider may periodically update their Terms and Conditions. Therefore, you are advised to review this page regularly for any changes. The Service Provider will notify you of any changes by posting the new Terms and Conditions on this page.
 
-### 4.2 Prohibited Activities
+These terms and conditions are effective as of 2025-11-12
 
-You may NOT:
+**Contact Us**
 
-- Attempt to reverse engineer or modify the App
-- Share access credentials with others
-- Use the App for harmful or illegal purposes
-- Attempt to circumvent safety protocols
-
-## 5. Privacy and Data Collection
-
-Your privacy is governed by our [Privacy Policy](/privacy), which is incorporated into these Terms by reference.
-
-## 7. Intellectual Property Rights
-
-### 7.1 Application Rights
-
-We retain all rights, title, and interest in:
-
-- The MalO application and its technology
-- All AI models and algorithms
-- Trademarks, logos, and branding
-- Documentation and user guides
-
-### 7.2 User Content
-
-You retain ownership of content you create, but grant us a license to use it for:
-
-- App functionality and improvement
-- Research and development
-- Safety monitoring and analysis
-
-## 8. Subscription and Payment Terms
-
-### 8.1 Free Application
-
-MalO ver1.0.0 is provided free of charge with no subscription fees or in-app purchases.
-
-### 8.2 Future Premium Features
-
-Future versions may include premium features with associated costs, subject to separate terms.
-
-## 9. Service Availability
-
-### 9.1 No Guarantee
-
-We do not guarantee:
-
-- Continuous availability of the service
-- Error-free operation
-- Compatibility with all devices
-- Uninterrupted AI companion functionality
-
-### 9.2 Maintenance and Updates
-
-We may:
-
-- Perform maintenance that temporarily interrupts service
-- Update the App with new features or security patches
-- Modify or discontinue features with notice
-
-## 10. Limitation of Liability
-
-### 10.1 Disclaimer of Warranties
-
-THE APP IS PROVIDED "AS IS" WITHOUT WARRANTIES OF ANY KIND, INCLUDING:
-
-- MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE
-- ACCURACY OR RELIABILITY OF AI RESPONSES
-- SAFETY FROM ANOMALOUS EFFECTS
-- COMPATIBILITY WITH YOUR DEVICE
-
-### 10.2 Limitation of Damages
-
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, WE SHALL NOT BE LIABLE FOR:
-
-- DIRECT, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES
-- PSYCHOLOGICAL OR PHYSICAL HARM FROM APP USE
-- LOSS OF DATA OR DEVICE DAMAGE
-- BUSINESS INTERRUPTION OR LOST PROFITS
-
-## 11. Indemnification
-
-You agree to indemnify and hold harmless us from any claims, damages, or expenses arising from:
-
-- Your use of the App
-- Violation of these Terms
-- Infringement of third-party rights
-- Anomalous effects experienced
-
-## 12. Termination
-
-### 12.1 Termination by User
-
-You may terminate your use of the App at any time by:
-
-- Uninstalling the application
-- Contacting support for account deletion
-- Following in-app termination procedures
-
-### 12.2 Termination by Us
-
-We may terminate or suspend your access if:
-
-- You violate these Terms
-- Your use poses safety risks
-- Technical or security issues arise
-- Legal requirements mandate termination
-
-### 12.3 Effects of Termination
-
-Upon termination:
-
-- Your right to use the App ceases immediately
-- Local data may be retained on your device
-- Cloud data will be deleted according to our Privacy Policy
-- Certain anomalous effects may persist
-
-## 13. Dispute Resolution
-
-### 13.1 Governing Law
-
-These Terms are governed by the laws of [CLASSIFIED JURISDICTION].
-
-### 13.2 Arbitration
-
-Any disputes will be resolved through binding arbitration, except for:
-
-- Claims related to intellectual property
-- Emergency safety situations
-- Regulatory enforcement actions
-
-### 13.3 Class Action Waiver
-
-You waive the right to participate in class action lawsuits against us.
-
-## 14. Contact and Support
-
-- [github issues](https://github.com/digital-containment/malo/issues)
-- email: too.imbadev@gmail.com
-
-## 15. Changes to Terms
-
-### 15.1 Modification Rights
-
-We may update these Terms at any time. Changes will be communicated through:
-
-- In-app notifications
-- Email notifications (if provided)
-- Website updates
-
-### 15.2 Continued Use
-
-Continued use of the App after changes constitutes acceptance of the new Terms.
-
-## 16. Severability
-
-If any provision of these Terms is found to be unenforceable, the remaining provisions will remain in full force and effect.
-
-## 17. Entire Agreement
-
-These Terms, together with our Privacy Policy, constitute the entire agreement between you and us regarding the App.
-
----
-
-_By using SCP-1471 MalO ver1.0.0, you acknowledge that you have read, understood, and agreed to these Terms of Service._
+If you have any questions or suggestions about the Terms and Conditions, please do not hesitate to contact the Service Provider at support@imbadev.com.
