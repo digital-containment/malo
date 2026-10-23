@@ -1,79 +1,150 @@
-# SCP-1471 MalO
+---
+title: Privacy Policy
+description: Privacy Policy of SCP-1471 MalO for Android and iOS.
+---
 
-**Version 1.0.0**
-**Privacy Policy**
+<!-- Сгенерировано из cloud-backend (publicSite/chatLegalTexts.ts) командой npm run legal-md. Не править руками. -->
 
-This privacy policy is applicable to the SCP-1471 MalO app (hereinafter referred to as "Application") for mobile devices, which was developed by Imba-Dev LLP (hereinafter referred to as "Service Provider") as a an Ad Supported service. This service is provided "AS IS".
+# Privacy Policy
 
-**What information does the Application obtain and how is it used?**  
-**User Provided Information**
+*SCP-1471 MalO · Last updated: 23.10.2026*
 
-The Application acquires the information you supply when you download and register the Application. Registration with the Service Provider is not mandatory. However, bear in mind that you might not be able to utilize some of the features offered by the Application unless you register with them.
+This Privacy Policy explains what information the SCP-1471 MalO mobile application (the "App") collects, how it is used and shared, how long it is kept, and how you can control and delete it. It applies to the App on both Android and iOS; where the two versions work differently, this is stated explicitly.
 
-The Service Provider may also use the information you provided them to contact you from time to time to provide you with important information, required notices and marketing promotions.
+## 1. Who We Are
 
-**Automatically Collected Information**
+The App is developed and operated by IMBA-DEV LLP (Almaty, Kazakhstan), referred to as "we" or "us". We are responsible for the personal data processed through the App.
 
-In addition, the Application may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the way you use the Application.
+For any privacy question or request, contact us at [too.imbadev@gmail.com](mailto:too.imbadev@gmail.com).
 
-**Does the Application collect precise real time location information of the device?**
+## 2. Information We Collect
 
-This Application does not gather precise information about the location of your mobile device.
+The App does not ask you to register. On first launch it creates an anonymous account identified by an internal number. Depending on how you use the App, we collect:
 
-This Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
+- Account data: the internal account ID, the app and interface language you use and, if you choose to link them in Settings, your email address and password. The password is stored only as a one-way hash.
+- Profile details you choose to provide: name, avatar, "about me" text, gender, age, city, country and interests.
+- Content of your conversations: the messages you write; the photos, videos and voice messages you send; the location you share; the text of what you say during voice calls; and the reports and feedback you send us.
+- What the character remembers: facts that the AI picks out from your messages (for example, your name, age or hobbies) so that the character can keep the conversation consistent.
+- Device and usage data: device model, operating system and app version, a push notification token, and records of how you use the App (for example, screens opened, features used, errors). Our servers also receive the IP address of your device when the App connects to them.
+- Purchase data, where purchases are available: the type and status of your subscription, its dates and the purchase token issued by Google Play or the App Store. We never receive your card or other payment details.
+- Age range from Google Play (Android only, where available): if Google Play provides an age signal for your account, the App receives the age range (for example, 16–17 or 18+) and uses it only to adapt content to your age.
+- Advertising data (Android only): see "Advertising" below.
 
-- Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
-- Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
-- Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
+## 3. Device Permissions
 
-**Do third parties see and/or have access to information obtained by the Application?**
+The App asks for a permission only when you use the feature that needs it. Every permission is optional: if you refuse, only the related feature stops working, and you can change your choice at any time in your device settings.
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+- Microphone — to record voice messages and the sound of videos, and to talk to the character during voice calls.
+- Speech recognition (voice calls) — what you say is converted into text by the speech recognition service of your device (Apple on iOS; on Android usually Google or the maker of your phone), which processes it under its own privacy policy, and the character's voice is synthesised on your device. Only text is sent to our servers; the audio of a call is not recorded or sent to us.
+- Camera and photos — to take or choose the photos and videos you send in a chat, and to save images to your gallery when you ask. The App accesses only the files you pick.
+- Location — on iOS, only when you choose to send your location in a chat: your current position is sent once, as a message. On Android, the character may additionally ask whether it can sense where you are; if you allow it, the current coordinates of your device are attached to every message you send, so that the character can take your surroundings into account. You can stop this at any time by withdrawing the location permission in Android settings. The App never accesses your location in the background.
+- Face ID, Touch ID or fingerprint — to unlock your chats when you turn on chat protection. The biometric check is performed by the operating system of your device; neither the App nor we ever receive your biometric data.
+- Notifications — to tell you about new messages from the character. You can turn them off in your device settings.
 
-Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
+## 4. How We Use Information
 
-- [Google Play Services](https://www.google.com/policies/privacy/)
-- [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
-- [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
-- [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
-- [Appodeal](https://www.appodeal.com/home/privacy-policy/)
-- [Expo](https://expo.io/privacy)
-- [Adjust](https://www.adjust.com/terms/privacy-policy)
+We use the information described above to:
 
-The Service Provider may disclose User Provided and Automatically Collected Information:
+- Provide the chat: deliver your messages, generate the character's replies and voice calls, describe the photos, videos and voice messages you send, and remember the context of your conversation.
+- Keep you safe: check messages for signs of a risk of suicide or self-harm, adapt the character's behaviour to your age and review reported messages (see "Safety, Moderation and Age").
+- Send you notifications from the character, if you allowed them.
+- Provide Premium and other purchases, and restore them on a new device.
+- Show ads on Android (see "Advertising").
+- Improve the App: we analyse usage statistics and review samples of conversations to improve the characters, stories and replies, and to find and fix errors.
+- Answer your requests and comply with legal obligations.
 
-- as required by law, such as to comply with a subpoena, or similar legal process;
-- when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-- with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+## 5. Third-Party AI Services
 
-**What are my opt-out rights?**
+The character is powered by AI models of third-party providers. To create replies, and for the related automatic processing described in this Policy (remembering facts, safety checks, translation), our servers send these providers the information needed for it: your recent messages and the character's previous replies, the photos, videos and voice messages you send (or their text descriptions), the location you share, the profile details you provided, what the character remembers about you, and the text of what you say during voice calls. The data is sent to:
 
-You can halt all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+- OpenRouter (openrouter.ai), which forwards each request to the provider of the AI model that generates the result, such as Google, OpenAI, Mistral, Alibaba (Qwen) or DeepSeek;
+- DeepSeek (deepseek.com), which we also use directly, without OpenRouter, for some auxiliary tasks and as a backup;
+- AssemblyAI (assemblyai.com), which converts voice messages and the sound of videos into text.
 
-**Data Retention Policy, Managing Your Information**
+## 6. Your Consent to Sharing Data with AI Services
 
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. The Service Provider will retain Automatically Collected information for up to 24 months and thereafter may store it in aggregate. If you'd like the Service Provider to delete User Provided Data that you have provided via the Application, please contact them at support@imbadev.com and we will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly.
+On iOS, before your first message, attachment or voice call, the App shows which data is sent to which AI services and asks for your explicit permission. Until you agree, nothing you write or send is passed to these services and the character cannot reply to you, but you can still use the rest of the App. On Android, sending this data is a necessary part of the chat described in this Policy.
 
-**Children**
+These providers receive the data only to process each request and return the result to us, and they handle it under their own terms and privacy policies. You can stop sharing at any time: stop sending messages, delete individual messages, or delete your account (see "Your Choices and Rights"). Data that a provider has already processed remains subject to that provider's retention policy.
 
-The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
+## 7. Advertising
 
-The Application does not address anyone under the age of 13\. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (support@imbadev.com) so that they will be able to take the necessary actions.
+Android. The free version of the App shows ads. They are provided by Google AdMob ([https://policies.google.com/privacy](https://policies.google.com/privacy)), Yandex Mobile Ads ([https://yandex.com/legal/confidential/](https://yandex.com/legal/confidential/)) and Unity LevelPlay ([https://unity.com/legal/privacy-policy](https://unity.com/legal/privacy-policy)), together with the ad networks they work with. To show and measure ads and to prevent fraud, these partners may collect the advertising ID of your device, its IP address, device and app information, information about other apps installed on your device and your interactions with ads. In the European Economic Area, the United Kingdom and other regions where it is required, the App asks for your consent to personalised ads through Google's consent form before ads are loaded. You can reset your advertising ID or opt out of personalised ads in your Android settings. Premium subscribers do not see ads.
 
-**Security**
+iOS. The App currently shows no ads on iOS, does not access the advertising identifier (IDFA) and does not track you across apps and websites owned by other companies.
 
-The Service Provider are concerned about safeguarding the confidentiality of your information. The Service Provider provide physical, electronic, and procedural safeguards to protect information we process and maintain. For example, we limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop or improve their Application. Please be aware that, although we endeavor provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.
+We never use the content of your conversations to select ads.
 
-**Changes**
+## 8. Safety, Moderation and Age
 
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+- Every message is analysed automatically by the AI services listed in "Third-Party AI Services": its topic, intent and signs of a risk of suicide or self-harm. If such a risk is detected and confirmed, the character steps out of its role, answers directly and gives contacts of help services in your country. The result of this check is stored together with the message.
+- The character adapts its behaviour to your age. It relies on the age range from Google Play (where available), the age in your profile, the content rating you choose in Settings and the age you mention in a chat.
+- If you report a message of the character, the message and the conversation before it are reviewed by our team. Team members can also access conversations when this is needed to answer your request, investigate a technical problem or abuse, or improve the App; such access is limited to the people who need it for this work.
 
-This privacy policy is effective as of 2025-11-12
+## 9. Other Service Providers
 
-**Your Consent**
+We also use the following providers, who process data on our behalf or provide the platform the App runs on:
 
-By using the Application, you are giving your consent to the Service Provider processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing,” means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information.
+- Hosting and cloud storage providers, on whose servers our database and the files you send are stored.
+- Expo (expo.dev), whose push service delivers notifications through Firebase Cloud Messaging (Google) on Android and the Apple Push Notification service on iOS. A notification may contain a fragment of the character's message.
+- Yandex Cloud (Yandex Translate), used as a backup to translate the character's replies into your language.
+- Google Play and the Apple App Store, which handle downloads, purchases and subscriptions (and, on Android, age signals) under their own privacy policies.
+- Telegram, where a limited sample of messages (the message text, its automatic classification and the internal numbers of the account and chat, without your profile details) is sent to a private group of our team for quality control.
 
-**Contact us**
+## 10. Sharing and Disclosure
 
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at support@imbadev.com.
+We do not sell your personal data. We share it only with the providers described in "Third-Party AI Services", "Advertising" and "Other Service Providers", and only to the extent needed for the purposes in this Policy. Every third party with whom we share user data must provide the same or equal protection of that data as stated in this Policy.
+
+We may also disclose information if the law requires it, to protect the safety of a person, to investigate fraud or abuse, or as part of a merger or transfer of the App, in which case this Policy continues to apply to your data.
+
+## 11. How Long We Keep Data
+
+We keep data only as long as it is needed:
+
+- Account, profile, conversations and the files you send: for as long as your account exists. A message you delete is removed; when you delete your account, all of this is deleted immediately.
+- Detailed usage records (analytics events): deleted automatically after 90 days.
+- Purchase records: as long as accounting and tax laws require; after your account is deleted they are no longer linked to you.
+- Aggregated statistics and records that are no longer linked to an existing account (for example, AI usage costs and ad impressions) may be kept longer.
+- Backups of our database: overwritten within 90 days.
+- Data processed by the providers described above: according to their own policies.
+
+## 12. Your Choices and Rights
+
+You can control your data in the following ways:
+
+- Delete your account and all data associated with it directly in the App: Settings → Account → Delete account. Deletion is immediate and permanent and works for anonymous accounts too. It does not cancel a subscription: cancel it in your Google Play or Apple ID settings.
+- Delete individual messages in a chat with a long press.
+- Edit or remove your profile details in the App at any time.
+- If you cannot open the App, ask us to delete your account, or only your data, on this page: [https://malo-app.scp-1471.app/apps/malo/delete-account](https://malo-app.scp-1471.app/apps/malo/delete-account)
+- Withdraw permissions (microphone, camera, photos, location, notifications) in your device settings.
+- On Android, change ad personalisation as described in "Advertising".
+
+## 13. Additional Rights
+
+Depending on where you live (for example, in the European Economic Area, the United Kingdom or California), you may have additional rights: to get a copy of your data, to correct it, to object to or restrict its processing, to data portability and to lodge a complaint with a data protection authority. To exercise them, write to [too.imbadev@gmail.com](mailto:too.imbadev@gmail.com); we answer within 30 days. We will not treat you differently for exercising these rights.
+
+## 14. Children's Privacy
+
+The App is not intended for children under 13, and we do not knowingly collect personal data from children under 13. If we learn that a child under 13 has created an account, we delete it. If you believe that your child has provided us with personal data, contact us at [too.imbadev@gmail.com](mailto:too.imbadev@gmail.com).
+
+For users under 18, the App limits the character's behaviour according to their age (see "Safety, Moderation and Age").
+
+## 15. Security
+
+Connections between the App and our servers are encrypted (HTTPS/TLS). Passwords are stored only as hashes, and access to user data is limited to the team members who need it. You can additionally lock your chats in the App with a PIN code or biometrics. No method of transmission or storage is completely secure, but we work to protect your data and will notify you and the authorities of a data breach where the law requires it.
+
+## 16. International Data Transfers
+
+We and our providers process data in different countries. Your data may therefore be processed outside the country where you live, including in the United States and China, where data protection laws may differ from those of your country.
+
+## 17. Changes to This Policy
+
+We may update this Policy when the App or the services we use change. The date of the latest update is shown at the top. If a change affects how your data is shared with AI services or significantly expands what we collect, we will tell you in the App and, where required (for example, for AI services on iOS), ask for your consent again.
+
+## 18. Contact Us
+
+IMBA-DEV LLP, Almaty, Kazakhstan. Email: [too.imbadev@gmail.com](mailto:too.imbadev@gmail.com)
+
+---
+
+SCP-1471 MalO is an unofficial fan work and is not affiliated with or endorsed by the SCP Wiki. It is based on SCP-1471 "MalO ver1.0.0" by LurkD ([https://scp-wiki.wikidot.com/scp-1471](https://scp-wiki.wikidot.com/scp-1471)) and other works from the SCP Wiki ([https://scp-wiki.wikidot.com](https://scp-wiki.wikidot.com)), licensed under CC BY-SA 3.0 ([https://creativecommons.org/licenses/by-sa/3.0/](https://creativecommons.org/licenses/by-sa/3.0/)). SCP-derived content in the app is shared under the same license.
