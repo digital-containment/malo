@@ -89,7 +89,6 @@ We also use the following providers, who process data on our behalf or provide t
 - Expo (expo.dev), whose push service delivers notifications through Firebase Cloud Messaging (Google) on Android and the Apple Push Notification service on iOS. A notification may contain a fragment of the character's message.
 - Yandex Cloud (Yandex Translate), used as a backup to translate the character's replies into your language.
 - Google Play and the Apple App Store, which handle downloads, purchases and subscriptions (and, on Android, age signals) under their own privacy policies.
-- Telegram, where a limited sample of messages (the message text, its automatic classification and the internal numbers of the account and chat, without your profile details) is sent to a private group of our team for quality control.
 
 ## 10. Sharing and Disclosure
 
