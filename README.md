@@ -58,3 +58,18 @@ This command generates static content into the `build` directory and can be serv
 nvm use v22
 ./deploy.sh
 ```
+
+### Legal pages
+
+`src/pages/privacy.md` and `src/pages/terms.md` are the pages linked from App Store Connect, Google Play
+Console and the app itself. Do not edit them by hand: they are generated from the backend of the app
+(`packages/cloud-backend/src/services/publicSite/chatLegalTexts.ts` in the main repository), which also
+serves the same texts at `https://malo-app.scp-1471.app/apps/malo/privacy` and `/terms`:
+
+```bash
+# from packages/cloud-backend of the main repository
+npm run legal-md -- malo privacy --out <path to this repo>/src/pages/privacy.md
+npm run legal-md -- malo terms --out <path to this repo>/src/pages/terms.md
+```
+
+`src/pages/data-deletion.md` is written by hand and must match the deletion rules in the privacy policy.

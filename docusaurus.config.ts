@@ -209,6 +209,10 @@ gtag('config', 'G-XWQJNEH9KG');`,
               label: "Terms of Service",
               to: "/terms",
             },
+            {
+              label: "Delete Account & Data",
+              to: "/data-deletion",
+            },
           ],
         },
         {
@@ -225,6 +229,14 @@ gtag('config', 'G-XWQJNEH9KG');`,
           ],
         },
       ],
+      // CC BY-SA 3.0 attribution (title, author, source, license) — the same text as in the app
+      // and in the store listings. The site retells SCP-1471, so it must be on every page.
+      copyright: `SCP-1471 MalO is an unofficial fan work and is not affiliated with or endorsed by the SCP Wiki.
+        It is based on SCP-1471 "MalO ver1.0.0" by LurkD (<a href="https://scp-wiki.wikidot.com/scp-1471">scp-wiki.wikidot.com/scp-1471</a>)
+        and other works from the <a href="https://scp-wiki.wikidot.com">SCP Wiki</a>, licensed under
+        <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>.
+        SCP-derived content of the app and of this site is shared under the same license.
+        © IMBA-DEV LLP`,
     },
     prism: {
       theme: prismThemes.github,
